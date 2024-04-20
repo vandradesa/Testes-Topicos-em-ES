@@ -1,32 +1,35 @@
 [
   [
     {
-      "val": -78,
+      "val": 95,
       "next": {
-        "val": 62,
+        "val": 41,
         "next": {
-          "val": 47,
+          "val": -41,
           "next": {
-            "val": -12,
+            "val": -97,
             "next": {
-              "val": 92,
+              "val": -52,
               "next": {
-                "val": -54,
+                "val": -17,
                 "next": {
                   "val": 91,
                   "next": {
                     "val": -47,
                     "next": {
-                      "val": 84,
+                      "val": -17,
                       "next": {
-                        "val": 12,
+                        "val": -60,
                         "next": {
-                          "val": 18,
+                          "val": -96,
                           "next": {
-                            "val": -53,
+                            "val": -47,
                             "next": {
-                              "val": 1,
-                              "next": null
+                              "val": 80,
+                              "next": {
+                                "val": -85,
+                                "next": null
+                              }
                             }
                           }
                         }
@@ -41,479 +44,109 @@
       }
     },
     {
-      "val": 57,
+      "val": 79,
       "next": {
-        "val": -88,
+        "val": 83,
         "next": {
-          "val": 32,
+          "val": 9,
           "next": {
             "val": 76,
             "next": {
-              "val": -1,
-              "next": {
-                "val": -33,
-                "next": {
-                  "val": 22,
-                  "next": {
-                    "val": 5,
-                    "next": {
-                      "val": -84,
-                      "next": {
-                        "val": -59,
-                        "next": {
-                          "val": 40,
-                          "next": {
-                            "val": 83,
-                            "next": {
-                              "val": 75,
-                              "next": null
-                            }
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  ],
-  [
-    {
-      "val": 61,
-      "next": {
-        "val": 61,
-        "next": {
-          "val": 75,
-          "next": {
-            "val": 97,
-            "next": {
-              "val": 56,
-              "next": {
-                "val": -67,
-                "next": {
-                  "val": 47,
-                  "next": {
-                    "val": 62,
-                    "next": {
-                      "val": 5,
-                      "next": {
-                        "val": 45,
-                        "next": {
-                          "val": 51,
-                          "next": {
-                            "val": -54,
-                            "next": {
-                              "val": -34,
-                              "next": {
-                                "val": -28,
-                                "next": {
-                                  "val": 60,
-                                  "next": {
-                                    "val": 40,
-                                    "next": {
-                                      "val": 53,
-                                      "next": {
-                                        "val": 0,
-                                        "next": {
-                                          "val": -90,
-                                          "next": {
-                                            "val": 46,
-                                            "next": {
-                                              "val": -87,
-                                              "next": {
-                                                "val": 19,
-                                                "next": {
-                                                  "val": -28,
-                                                  "next": {
-                                                    "val": 86,
-                                                    "next": {
-                                                      "val": 83,
-                                                      "next": {
-                                                        "val": 9,
-                                                        "next": {
-                                                          "val": -5,
-                                                          "next": {
-                                                            "val": -34,
-                                                            "next": {
-                                                              "val": 77,
-                                                              "next": {
-                                                                "val": -40,
-                                                                "next": null
-                                                              }
-                                                            }
-                                                          }
-                                                        }
-                                                      }
-                                                    }
-                                                  }
-                                                }
-                                              }
-                                            }
-                                          }
-                                        }
-                                      }
-                                    }
-                                  }
-                                }
-                              }
-                            }
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "val": 15,
-      "next": {
-        "val": 85,
-        "next": {
-          "val": -24,
-          "next": {
-            "val": -6,
-            "next": {
-              "val": 25,
-              "next": {
-                "val": -59,
-                "next": {
-                  "val": 58,
-                  "next": {
-                    "val": 35,
-                    "next": {
-                      "val": -7,
-                      "next": {
-                        "val": -36,
-                        "next": {
-                          "val": -66,
-                          "next": {
-                            "val": 19,
-                            "next": {
-                              "val": -27,
-                              "next": {
-                                "val": 67,
-                                "next": {
-                                  "val": -9,
-                                  "next": {
-                                    "val": -15,
-                                    "next": {
-                                      "val": 27,
-                                      "next": {
-                                        "val": 24,
-                                        "next": {
-                                          "val": -71,
-                                          "next": {
-                                            "val": 43,
-                                            "next": {
-                                              "val": 28,
-                                              "next": {
-                                                "val": 2,
-                                                "next": {
-                                                  "val": 3,
-                                                  "next": {
-                                                    "val": -13,
-                                                    "next": {
-                                                      "val": -20,
-                                                      "next": {
-                                                        "val": 33,
-                                                        "next": {
-                                                          "val": -60,
-                                                          "next": {
-                                                            "val": -77,
-                                                            "next": {
-                                                              "val": -17,
-                                                              "next": {
-                                                                "val": -19,
-                                                                "next": null
-                                                              }
-                                                            }
-                                                          }
-                                                        }
-                                                      }
-                                                    }
-                                                  }
-                                                }
-                                              }
-                                            }
-                                          }
-                                        }
-                                      }
-                                    }
-                                  }
-                                }
-                              }
-                            }
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  ],
-  [
-    {
-      "val": 76,
-      "next": {
-        "val": 44,
-        "next": {
-          "val": 48,
-          "next": {
-            "val": 42,
-            "next": {
-              "val": -43,
-              "next": {
-                "val": -74,
-                "next": {
-                  "val": 72,
-                  "next": {
-                    "val": -94,
-                    "next": {
-                      "val": -81,
-                      "next": {
-                        "val": 2,
-                        "next": {
-                          "val": 79,
-                          "next": {
-                            "val": -4,
-                            "next": {
-                              "val": 7,
-                              "next": {
-                                "val": 50,
-                                "next": {
-                                  "val": -45,
-                                  "next": {
-                                    "val": -38,
-                                    "next": {
-                                      "val": -55,
-                                      "next": {
-                                        "val": -29,
-                                        "next": {
-                                          "val": 33,
-                                          "next": {
-                                            "val": -51,
-                                            "next": {
-                                              "val": -96,
-                                              "next": {
-                                                "val": 28,
-                                                "next": {
-                                                  "val": 36,
-                                                  "next": null
-                                                }
-                                              }
-                                            }
-                                          }
-                                        }
-                                      }
-                                    }
-                                  }
-                                }
-                              }
-                            }
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "val": -14,
-      "next": {
-        "val": 58,
-        "next": {
-          "val": -67,
-          "next": {
-            "val": 15,
-            "next": {
-              "val": -48,
-              "next": {
-                "val": 34,
-                "next": {
-                  "val": 51,
-                  "next": {
-                    "val": 12,
-                    "next": {
-                      "val": 82,
-                      "next": {
-                        "val": 60,
-                        "next": {
-                          "val": -7,
-                          "next": {
-                            "val": 31,
-                            "next": {
-                              "val": -30,
-                              "next": {
-                                "val": -17,
-                                "next": {
-                                  "val": -29,
-                                  "next": {
-                                    "val": 63,
-                                    "next": {
-                                      "val": -14,
-                                      "next": {
-                                        "val": -61,
-                                        "next": {
-                                          "val": -31,
-                                          "next": {
-                                            "val": 86,
-                                            "next": {
-                                              "val": -42,
-                                              "next": {
-                                                "val": -5,
-                                                "next": {
-                                                  "val": 100,
-                                                  "next": null
-                                                }
-                                              }
-                                            }
-                                          }
-                                        }
-                                      }
-                                    }
-                                  }
-                                }
-                              }
-                            }
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  ],
-  [
-    {
-      "val": 25,
-      "next": {
-        "val": -92,
-        "next": {
-          "val": 69,
-          "next": {
-            "val": -34,
-            "next": {
               "val": -63,
               "next": {
-                "val": 33,
+                "val": -91,
                 "next": {
-                  "val": 4,
+                  "val": -26,
                   "next": {
-                    "val": 58,
+                    "val": -96,
                     "next": {
-                      "val": 84,
+                      "val": 7,
                       "next": {
-                        "val": 81,
+                        "val": -41,
                         "next": {
-                          "val": -55,
+                          "val": -70,
                           "next": {
-                            "val": -20,
+                            "val": 43,
                             "next": {
-                              "val": 33,
+                              "val": -21,
                               "next": {
-                                "val": 34,
+                                "val": -92,
+                                "next": null
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  [
+    {
+      "val": -50,
+      "next": null
+    },
+    {
+      "val": -53,
+      "next": null
+    }
+  ],
+  [
+    {
+      "val": 92,
+      "next": {
+        "val": -54,
+        "next": {
+          "val": 88,
+          "next": {
+            "val": -30,
+            "next": {
+              "val": -93,
+              "next": {
+                "val": -28,
+                "next": {
+                  "val": -22,
+                  "next": {
+                    "val": 4,
+                    "next": {
+                      "val": -59,
+                      "next": {
+                        "val": 27,
+                        "next": {
+                          "val": 32,
+                          "next": {
+                            "val": -79,
+                            "next": {
+                              "val": 99,
+                              "next": {
+                                "val": -100,
                                 "next": {
-                                  "val": 77,
+                                  "val": -74,
                                   "next": {
-                                    "val": 68,
+                                    "val": 16,
                                     "next": {
-                                      "val": 49,
+                                      "val": -64,
                                       "next": {
-                                        "val": 68,
+                                        "val": -6,
                                         "next": {
-                                          "val": 64,
+                                          "val": -81,
                                           "next": {
-                                            "val": 43,
+                                            "val": -24,
                                             "next": {
-                                              "val": 22,
+                                              "val": -80,
                                               "next": {
-                                                "val": 88,
+                                                "val": 94,
                                                 "next": {
-                                                  "val": -5,
+                                                  "val": -48,
                                                   "next": {
                                                     "val": 48,
-                                                    "next": {
-                                                      "val": 55,
-                                                      "next": {
-                                                        "val": -91,
-                                                        "next": {
-                                                          "val": -3,
-                                                          "next": {
-                                                            "val": -52,
-                                                            "next": {
-                                                              "val": -70,
-                                                              "next": {
-                                                                "val": 85,
-                                                                "next": {
-                                                                  "val": 44,
-                                                                  "next": {
-                                                                    "val": -92,
-                                                                    "next": {
-                                                                      "val": -5,
-                                                                      "next": {
-                                                                        "val": 0,
-                                                                        "next": {
-                                                                          "val": -79,
-                                                                          "next": {
-                                                                            "val": 32,
-                                                                            "next": {
-                                                                              "val": -53,
-                                                                              "next": {
-                                                                                "val": 44,
-                                                                                "next": {
-                                                                                  "val": 37,
-                                                                                  "next": {
-                                                                                    "val": 30,
-                                                                                    "next": {
-                                                                                      "val": -45,
-                                                                                      "next": {
-                                                                                        "val": -42,
-                                                                                        "next": {
-                                                                                          "val": -38,
-                                                                                          "next": null
-                                                                                        }
-                                                                                      }
-                                                                                    }
-                                                                                  }
-                                                                                }
-                                                                              }
-                                                                            }
-                                                                          }
-                                                                        }
-                                                                      }
-                                                                    }
-                                                                  }
-                                                                }
-                                                              }
-                                                            }
-                                                          }
-                                                        }
-                                                      }
-                                                    }
+                                                    "next": null
                                                   }
                                                 }
                                               }
@@ -541,817 +174,468 @@
     {
       "val": -24,
       "next": {
-        "val": 20,
-        "next": {
-          "val": 100,
-          "next": {
-            "val": -32,
-            "next": {
-              "val": -67,
-              "next": {
-                "val": -97,
-                "next": {
-                  "val": -9,
-                  "next": {
-                    "val": 91,
-                    "next": {
-                      "val": -84,
-                      "next": {
-                        "val": 18,
-                        "next": {
-                          "val": -64,
-                          "next": {
-                            "val": -38,
-                            "next": {
-                              "val": 53,
-                              "next": {
-                                "val": -80,
-                                "next": {
-                                  "val": -68,
-                                  "next": {
-                                    "val": 26,
-                                    "next": {
-                                      "val": 63,
-                                      "next": {
-                                        "val": -85,
-                                        "next": {
-                                          "val": -60,
-                                          "next": {
-                                            "val": -29,
-                                            "next": {
-                                              "val": -82,
-                                              "next": {
-                                                "val": 8,
-                                                "next": {
-                                                  "val": -86,
-                                                  "next": {
-                                                    "val": -34,
-                                                    "next": {
-                                                      "val": 71,
-                                                      "next": {
-                                                        "val": 63,
-                                                        "next": {
-                                                          "val": 66,
-                                                          "next": {
-                                                            "val": -94,
-                                                            "next": {
-                                                              "val": -94,
-                                                              "next": {
-                                                                "val": -13,
-                                                                "next": {
-                                                                  "val": 5,
-                                                                  "next": {
-                                                                    "val": 66,
-                                                                    "next": {
-                                                                      "val": 61,
-                                                                      "next": {
-                                                                        "val": 61,
-                                                                        "next": {
-                                                                          "val": 48,
-                                                                          "next": {
-                                                                            "val": 54,
-                                                                            "next": {
-                                                                              "val": -94,
-                                                                              "next": {
-                                                                                "val": -15,
-                                                                                "next": {
-                                                                                  "val": 58,
-                                                                                  "next": {
-                                                                                    "val": -81,
-                                                                                    "next": {
-                                                                                      "val": 45,
-                                                                                      "next": {
-                                                                                        "val": -43,
-                                                                                        "next": {
-                                                                                          "val": 68,
-                                                                                          "next": null
-                                                                                        }
-                                                                                      }
-                                                                                    }
-                                                                                  }
-                                                                                }
-                                                                              }
-                                                                            }
-                                                                          }
-                                                                        }
-                                                                      }
-                                                                    }
-                                                                  }
-                                                                }
-                                                              }
-                                                            }
-                                                          }
-                                                        }
-                                                      }
-                                                    }
-                                                  }
-                                                }
-                                              }
-                                            }
-                                          }
-                                        }
-                                      }
-                                    }
-                                  }
-                                }
-                              }
-                            }
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  ],
-  [
-    {
-      "val": -93,
-      "next": {
-        "val": 25,
-        "next": {
-          "val": -19,
-          "next": {
-            "val": 15,
-            "next": {
-              "val": -31,
-              "next": {
-                "val": 60,
-                "next": {
-                  "val": 63,
-                  "next": {
-                    "val": 76,
-                    "next": {
-                      "val": 47,
-                      "next": {
-                        "val": -93,
-                        "next": {
-                          "val": 70,
-                          "next": {
-                            "val": -33,
-                            "next": {
-                              "val": 77,
-                              "next": null
-                            }
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "val": -92,
-      "next": {
-        "val": -99,
-        "next": {
-          "val": -51,
-          "next": {
-            "val": 30,
-            "next": {
-              "val": -49,
-              "next": {
-                "val": 43,
-                "next": {
-                  "val": 48,
-                  "next": {
-                    "val": 68,
-                    "next": {
-                      "val": 23,
-                      "next": {
-                        "val": 34,
-                        "next": {
-                          "val": -20,
-                          "next": {
-                            "val": -59,
-                            "next": {
-                              "val": -22,
-                              "next": null
-                            }
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  ],
-  [
-    {
-      "val": 95,
-      "next": {
-        "val": -83,
-        "next": {
-          "val": 12,
-          "next": {
-            "val": 38,
-            "next": {
-              "val": 13,
-              "next": {
-                "val": -24,
-                "next": {
-                  "val": -11,
-                  "next": {
-                    "val": -30,
-                    "next": {
-                      "val": -77,
-                      "next": {
-                        "val": -13,
-                        "next": {
-                          "val": -65,
-                          "next": {
-                            "val": 84,
-                            "next": {
-                              "val": -56,
-                              "next": {
-                                "val": -18,
-                                "next": {
-                                  "val": 51,
-                                  "next": {
-                                    "val": -41,
-                                    "next": {
-                                      "val": -72,
-                                      "next": {
-                                        "val": 71,
-                                        "next": {
-                                          "val": -11,
-                                          "next": {
-                                            "val": -74,
-                                            "next": {
-                                              "val": 16,
-                                              "next": null
-                                            }
-                                          }
-                                        }
-                                      }
-                                    }
-                                  }
-                                }
-                              }
-                            }
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "val": 48,
-      "next": {
-        "val": -13,
-        "next": {
-          "val": -46,
-          "next": {
-            "val": -76,
-            "next": {
-              "val": -92,
-              "next": {
-                "val": 87,
-                "next": {
-                  "val": 68,
-                  "next": {
-                    "val": -43,
-                    "next": {
-                      "val": 75,
-                      "next": {
-                        "val": -12,
-                        "next": {
-                          "val": -66,
-                          "next": {
-                            "val": 89,
-                            "next": {
-                              "val": -55,
-                              "next": {
-                                "val": -16,
-                                "next": {
-                                  "val": -74,
-                                  "next": {
-                                    "val": -10,
-                                    "next": {
-                                      "val": -31,
-                                      "next": {
-                                        "val": 64,
-                                        "next": {
-                                          "val": 71,
-                                          "next": {
-                                            "val": -19,
-                                            "next": {
-                                              "val": 61,
-                                              "next": null
-                                            }
-                                          }
-                                        }
-                                      }
-                                    }
-                                  }
-                                }
-                              }
-                            }
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  ],
-  [
-    {
-      "val": 49,
-      "next": {
-        "val": 54,
-        "next": {
-          "val": 3,
-          "next": {
-            "val": 98,
-            "next": {
-              "val": -91,
-              "next": {
-                "val": 27,
-                "next": {
-                  "val": 59,
-                  "next": {
-                    "val": -59,
-                    "next": {
-                      "val": -86,
-                      "next": {
-                        "val": -24,
-                        "next": {
-                          "val": -2,
-                          "next": {
-                            "val": 54,
-                            "next": {
-                              "val": -11,
-                              "next": {
-                                "val": 31,
-                                "next": {
-                                  "val": 53,
-                                  "next": {
-                                    "val": -9,
-                                    "next": {
-                                      "val": -76,
-                                      "next": {
-                                        "val": -18,
-                                        "next": {
-                                          "val": -23,
-                                          "next": {
-                                            "val": -24,
-                                            "next": {
-                                              "val": 60,
-                                              "next": {
-                                                "val": 12,
-                                                "next": {
-                                                  "val": 52,
-                                                  "next": {
-                                                    "val": -9,
-                                                    "next": {
-                                                      "val": 4,
-                                                      "next": {
-                                                        "val": -23,
-                                                        "next": {
-                                                          "val": 67,
-                                                          "next": {
-                                                            "val": -46,
-                                                            "next": {
-                                                              "val": 32,
-                                                              "next": {
-                                                                "val": -25,
-                                                                "next": {
-                                                                  "val": 61,
-                                                                  "next": {
-                                                                    "val": -97,
-                                                                    "next": {
-                                                                      "val": -2,
-                                                                      "next": {
-                                                                        "val": -79,
-                                                                        "next": {
-                                                                          "val": -89,
-                                                                          "next": {
-                                                                            "val": 19,
-                                                                            "next": {
-                                                                              "val": -59,
-                                                                              "next": {
-                                                                                "val": 23,
-                                                                                "next": {
-                                                                                  "val": 26,
-                                                                                  "next": {
-                                                                                    "val": 93,
-                                                                                    "next": {
-                                                                                      "val": -9,
-                                                                                      "next": {
-                                                                                        "val": 57,
-                                                                                        "next": null
-                                                                                      }
-                                                                                    }
-                                                                                  }
-                                                                                }
-                                                                              }
-                                                                            }
-                                                                          }
-                                                                        }
-                                                                      }
-                                                                    }
-                                                                  }
-                                                                }
-                                                              }
-                                                            }
-                                                          }
-                                                        }
-                                                      }
-                                                    }
-                                                  }
-                                                }
-                                              }
-                                            }
-                                          }
-                                        }
-                                      }
-                                    }
-                                  }
-                                }
-                              }
-                            }
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "val": 53,
-      "next": {
-        "val": -47,
-        "next": {
-          "val": -66,
-          "next": {
-            "val": 34,
-            "next": {
-              "val": -8,
-              "next": {
-                "val": 51,
-                "next": {
-                  "val": -48,
-                  "next": {
-                    "val": 7,
-                    "next": {
-                      "val": -35,
-                      "next": {
-                        "val": 56,
-                        "next": {
-                          "val": -74,
-                          "next": {
-                            "val": -37,
-                            "next": {
-                              "val": 38,
-                              "next": {
-                                "val": -35,
-                                "next": {
-                                  "val": -61,
-                                  "next": {
-                                    "val": -20,
-                                    "next": {
-                                      "val": -74,
-                                      "next": {
-                                        "val": 39,
-                                        "next": {
-                                          "val": 79,
-                                          "next": {
-                                            "val": -81,
-                                            "next": {
-                                              "val": 14,
-                                              "next": {
-                                                "val": 38,
-                                                "next": {
-                                                  "val": 43,
-                                                  "next": {
-                                                    "val": 47,
-                                                    "next": {
-                                                      "val": -25,
-                                                      "next": {
-                                                        "val": -74,
-                                                        "next": {
-                                                          "val": 3,
-                                                          "next": {
-                                                            "val": -28,
-                                                            "next": {
-                                                              "val": 38,
-                                                              "next": {
-                                                                "val": -18,
-                                                                "next": {
-                                                                  "val": -35,
-                                                                  "next": {
-                                                                    "val": -4,
-                                                                    "next": {
-                                                                      "val": -8,
-                                                                      "next": {
-                                                                        "val": -73,
-                                                                        "next": {
-                                                                          "val": -55,
-                                                                          "next": {
-                                                                            "val": -47,
-                                                                            "next": {
-                                                                              "val": -53,
-                                                                              "next": {
-                                                                                "val": 79,
-                                                                                "next": {
-                                                                                  "val": -13,
-                                                                                  "next": {
-                                                                                    "val": -62,
-                                                                                    "next": {
-                                                                                      "val": -21,
-                                                                                      "next": {
-                                                                                        "val": -30,
-                                                                                        "next": null
-                                                                                      }
-                                                                                    }
-                                                                                  }
-                                                                                }
-                                                                              }
-                                                                            }
-                                                                          }
-                                                                        }
-                                                                      }
-                                                                    }
-                                                                  }
-                                                                }
-                                                              }
-                                                            }
-                                                          }
-                                                        }
-                                                      }
-                                                    }
-                                                  }
-                                                }
-                                              }
-                                            }
-                                          }
-                                        }
-                                      }
-                                    }
-                                  }
-                                }
-                              }
-                            }
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  ],
-  [
-    {
-      "val": 80,
-      "next": {
-        "val": -84,
-        "next": {
-          "val": -83,
-          "next": {
-            "val": -64,
-            "next": {
-              "val": -85,
-              "next": {
-                "val": -37,
-                "next": {
-                  "val": -18,
-                  "next": {
-                    "val": -53,
-                    "next": {
-                      "val": -33,
-                      "next": {
-                        "val": 39,
-                        "next": {
-                          "val": -67,
-                          "next": {
-                            "val": 10,
-                            "next": {
-                              "val": 53,
-                              "next": {
-                                "val": 52,
-                                "next": {
-                                  "val": -92,
-                                  "next": {
-                                    "val": 15,
-                                    "next": {
-                                      "val": 4,
-                                      "next": {
-                                        "val": 18,
-                                        "next": {
-                                          "val": -41,
-                                          "next": {
-                                            "val": -32,
-                                            "next": {
-                                              "val": -66,
-                                              "next": {
-                                                "val": -47,
-                                                "next": {
-                                                  "val": -1,
-                                                  "next": {
-                                                    "val": 82,
-                                                    "next": {
-                                                      "val": -12,
-                                                      "next": {
-                                                        "val": 33,
-                                                        "next": {
-                                                          "val": -86,
-                                                          "next": {
-                                                            "val": 9,
-                                                            "next": {
-                                                              "val": -87,
-                                                              "next": {
-                                                                "val": -70,
-                                                                "next": {
-                                                                  "val": 3,
-                                                                  "next": {
-                                                                    "val": 9,
-                                                                    "next": {
-                                                                      "val": -7,
-                                                                      "next": {
-                                                                        "val": -66,
-                                                                        "next": {
-                                                                          "val": -17,
-                                                                          "next": {
-                                                                            "val": -22,
-                                                                            "next": {
-                                                                              "val": -5,
-                                                                              "next": {
-                                                                                "val": -100,
-                                                                                "next": {
-                                                                                  "val": 49,
-                                                                                  "next": {
-                                                                                    "val": 84,
-                                                                                    "next": {
-                                                                                      "val": -62,
-                                                                                      "next": {
-                                                                                        "val": 62,
-                                                                                        "next": null
-                                                                                      }
-                                                                                    }
-                                                                                  }
-                                                                                }
-                                                                              }
-                                                                            }
-                                                                          }
-                                                                        }
-                                                                      }
-                                                                    }
-                                                                  }
-                                                                }
-                                                              }
-                                                            }
-                                                          }
-                                                        }
-                                                      }
-                                                    }
-                                                  }
-                                                }
-                                              }
-                                            }
-                                          }
-                                        }
-                                      }
-                                    }
-                                  }
-                                }
-                              }
-                            }
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "val": 16,
-      "next": {
-        "val": -33,
+        "val": 32,
         "next": {
           "val": 50,
           "next": {
-            "val": 33,
+            "val": -17,
             "next": {
-              "val": 24,
+              "val": 86,
               "next": {
-                "val": 64,
+                "val": -35,
                 "next": {
-                  "val": -97,
+                  "val": 56,
                   "next": {
-                    "val": -56,
+                    "val": -99,
                     "next": {
-                      "val": 7,
+                      "val": -37,
                       "next": {
-                        "val": 59,
+                        "val": 20,
                         "next": {
-                          "val": -18,
+                          "val": 45,
                           "next": {
-                            "val": 8,
+                            "val": -12,
                             "next": {
-                              "val": -15,
+                              "val": 26,
                               "next": {
-                                "val": -66,
+                                "val": -25,
                                 "next": {
-                                  "val": -55,
+                                  "val": -17,
                                   "next": {
-                                    "val": 55,
+                                    "val": -97,
                                     "next": {
-                                      "val": 0,
+                                      "val": -65,
                                       "next": {
-                                        "val": 48,
+                                        "val": 66,
                                         "next": {
-                                          "val": 76,
+                                          "val": -98,
                                           "next": {
-                                            "val": 55,
+                                            "val": -69,
                                             "next": {
-                                              "val": 24,
+                                              "val": -5,
                                               "next": {
-                                                "val": 97,
+                                                "val": 79,
                                                 "next": {
-                                                  "val": -58,
+                                                  "val": -68,
                                                   "next": {
-                                                    "val": 10,
+                                                    "val": 88,
+                                                    "next": null
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  [
+    {
+      "val": 19,
+      "next": {
+        "val": -37,
+        "next": {
+          "val": 47,
+          "next": {
+            "val": 81,
+            "next": {
+              "val": 61,
+              "next": {
+                "val": 53,
+                "next": {
+                  "val": 91,
+                  "next": {
+                    "val": 42,
+                    "next": {
+                      "val": 17,
+                      "next": {
+                        "val": -61,
+                        "next": {
+                          "val": 63,
+                          "next": null
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "val": 86,
+      "next": {
+        "val": -12,
+        "next": {
+          "val": -26,
+          "next": {
+            "val": -42,
+            "next": {
+              "val": 64,
+              "next": {
+                "val": -56,
+                "next": {
+                  "val": 20,
+                  "next": {
+                    "val": -99,
+                    "next": {
+                      "val": -41,
+                      "next": {
+                        "val": 30,
+                        "next": {
+                          "val": 5,
+                          "next": null
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  [
+    {
+      "val": -3,
+      "next": {
+        "val": 77,
+        "next": {
+          "val": 71,
+          "next": {
+            "val": 9,
+            "next": {
+              "val": 60,
+              "next": {
+                "val": -29,
+                "next": {
+                  "val": 24,
+                  "next": {
+                    "val": 70,
+                    "next": {
+                      "val": -42,
+                      "next": {
+                        "val": 18,
+                        "next": {
+                          "val": -86,
+                          "next": {
+                            "val": 83,
+                            "next": {
+                              "val": -70,
+                              "next": {
+                                "val": 75,
+                                "next": {
+                                  "val": 12,
+                                  "next": {
+                                    "val": -82,
+                                    "next": {
+                                      "val": 47,
+                                      "next": {
+                                        "val": -82,
+                                        "next": {
+                                          "val": 35,
+                                          "next": null
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "val": 65,
+      "next": {
+        "val": 50,
+        "next": {
+          "val": 88,
+          "next": {
+            "val": 48,
+            "next": {
+              "val": 62,
+              "next": {
+                "val": -33,
+                "next": {
+                  "val": -39,
+                  "next": {
+                    "val": -34,
+                    "next": {
+                      "val": -18,
+                      "next": {
+                        "val": 27,
+                        "next": {
+                          "val": 88,
+                          "next": {
+                            "val": 56,
+                            "next": {
+                              "val": 29,
+                              "next": {
+                                "val": -76,
+                                "next": {
+                                  "val": -31,
+                                  "next": {
+                                    "val": -44,
+                                    "next": {
+                                      "val": -48,
+                                      "next": {
+                                        "val": 83,
+                                        "next": {
+                                          "val": -65,
+                                          "next": null
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  [
+    {
+      "val": -83,
+      "next": {
+        "val": -100,
+        "next": {
+          "val": 1,
+          "next": {
+            "val": 50,
+            "next": {
+              "val": -41,
+              "next": {
+                "val": -31,
+                "next": {
+                  "val": 9,
+                  "next": {
+                    "val": -58,
+                    "next": {
+                      "val": 71,
+                      "next": {
+                        "val": 48,
+                        "next": {
+                          "val": -33,
+                          "next": {
+                            "val": -7,
+                            "next": {
+                              "val": -42,
+                              "next": {
+                                "val": 22,
+                                "next": {
+                                  "val": -28,
+                                  "next": {
+                                    "val": -47,
+                                    "next": {
+                                      "val": 40,
+                                      "next": {
+                                        "val": -95,
+                                        "next": {
+                                          "val": 22,
+                                          "next": {
+                                            "val": -4,
+                                            "next": {
+                                              "val": 23,
+                                              "next": {
+                                                "val": 96,
+                                                "next": {
+                                                  "val": 36,
+                                                  "next": {
+                                                    "val": 46,
                                                     "next": {
-                                                      "val": -99,
+                                                      "val": 11,
                                                       "next": {
-                                                        "val": 56,
+                                                        "val": -79,
                                                         "next": {
-                                                          "val": -40,
+                                                          "val": 28,
                                                           "next": {
-                                                            "val": 68,
+                                                            "val": 77,
                                                             "next": {
-                                                              "val": 89,
+                                                              "val": 83,
                                                               "next": {
-                                                                "val": 25,
+                                                                "val": -59,
                                                                 "next": {
-                                                                  "val": 59,
+                                                                  "val": -68,
                                                                   "next": {
-                                                                    "val": 21,
+                                                                    "val": -69,
                                                                     "next": {
-                                                                      "val": -23,
+                                                                      "val": -61,
                                                                       "next": {
-                                                                        "val": -67,
+                                                                        "val": 74,
                                                                         "next": {
-                                                                          "val": -78,
+                                                                          "val": -49,
                                                                           "next": {
-                                                                            "val": 89,
+                                                                            "val": -37,
                                                                             "next": {
-                                                                              "val": 70,
+                                                                              "val": -69,
                                                                               "next": {
-                                                                                "val": -48,
+                                                                                "val": -35,
                                                                                 "next": {
-                                                                                  "val": 36,
+                                                                                  "val": -86,
                                                                                   "next": {
-                                                                                    "val": 26,
-                                                                                    "next": {
-                                                                                      "val": -35,
-                                                                                      "next": {
-                                                                                        "val": 36,
-                                                                                        "next": null
-                                                                                      }
-                                                                                    }
+                                                                                    "val": -100,
+                                                                                    "next": null
+                                                                                  }
+                                                                                }
+                                                                              }
+                                                                            }
+                                                                          }
+                                                                        }
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "val": -41,
+      "next": {
+        "val": 74,
+        "next": {
+          "val": 16,
+          "next": {
+            "val": 79,
+            "next": {
+              "val": -74,
+              "next": {
+                "val": -79,
+                "next": {
+                  "val": -90,
+                  "next": {
+                    "val": 40,
+                    "next": {
+                      "val": 64,
+                      "next": {
+                        "val": 76,
+                        "next": {
+                          "val": -44,
+                          "next": {
+                            "val": 24,
+                            "next": {
+                              "val": 28,
+                              "next": {
+                                "val": 72,
+                                "next": {
+                                  "val": -9,
+                                  "next": {
+                                    "val": 50,
+                                    "next": {
+                                      "val": -46,
+                                      "next": {
+                                        "val": -48,
+                                        "next": {
+                                          "val": 36,
+                                          "next": {
+                                            "val": -77,
+                                            "next": {
+                                              "val": 28,
+                                              "next": {
+                                                "val": 40,
+                                                "next": {
+                                                  "val": -14,
+                                                  "next": {
+                                                    "val": -50,
+                                                    "next": {
+                                                      "val": -44,
+                                                      "next": {
+                                                        "val": -48,
+                                                        "next": {
+                                                          "val": -26,
+                                                          "next": {
+                                                            "val": -22,
+                                                            "next": {
+                                                              "val": 42,
+                                                              "next": {
+                                                                "val": -100,
+                                                                "next": {
+                                                                  "val": 98,
+                                                                  "next": {
+                                                                    "val": 64,
+                                                                    "next": {
+                                                                      "val": 15,
+                                                                      "next": {
+                                                                        "val": -34,
+                                                                        "next": {
+                                                                          "val": -39,
+                                                                          "next": {
+                                                                            "val": 80,
+                                                                            "next": {
+                                                                              "val": 55,
+                                                                              "next": {
+                                                                                "val": -54,
+                                                                                "next": {
+                                                                                  "val": 99,
+                                                                                  "next": {
+                                                                                    "val": 50,
+                                                                                    "next": null
                                                                                   }
                                                                                 }
                                                                               }
@@ -1395,76 +679,82 @@
   ],
   [
     {
-      "val": -61,
+      "val": 96,
       "next": {
-        "val": -48,
+        "val": -4,
         "next": {
-          "val": 13,
+          "val": -54,
           "next": {
-            "val": 8,
+            "val": -20,
             "next": {
-              "val": 44,
+              "val": 98,
               "next": {
-                "val": -8,
+                "val": -78,
                 "next": {
-                  "val": 71,
+                  "val": -88,
                   "next": {
-                    "val": 66,
+                    "val": -58,
                     "next": {
-                      "val": 32,
+                      "val": 70,
                       "next": {
-                        "val": 82,
+                        "val": 98,
                         "next": {
-                          "val": -28,
+                          "val": -71,
                           "next": {
-                            "val": 86,
+                            "val": 78,
                             "next": {
-                              "val": -84,
+                              "val": 11,
                               "next": {
-                                "val": -63,
+                                "val": 8,
                                 "next": {
-                                  "val": 83,
+                                  "val": 61,
                                   "next": {
-                                    "val": 52,
+                                    "val": 43,
                                     "next": {
-                                      "val": -80,
+                                      "val": 62,
                                       "next": {
-                                        "val": -91,
+                                        "val": 66,
                                         "next": {
-                                          "val": 70,
+                                          "val": -26,
                                           "next": {
-                                            "val": 32,
+                                            "val": 43,
                                             "next": {
-                                              "val": 18,
+                                              "val": -86,
                                               "next": {
-                                                "val": 45,
+                                                "val": -29,
                                                 "next": {
-                                                  "val": -15,
+                                                  "val": -62,
                                                   "next": {
-                                                    "val": 100,
+                                                    "val": -24,
                                                     "next": {
-                                                      "val": 4,
+                                                      "val": 58,
                                                       "next": {
-                                                        "val": -59,
+                                                        "val": 34,
                                                         "next": {
-                                                          "val": 33,
+                                                          "val": -98,
                                                           "next": {
-                                                            "val": -94,
+                                                            "val": -62,
                                                             "next": {
-                                                              "val": -71,
+                                                              "val": 18,
                                                               "next": {
-                                                                "val": 5,
+                                                                "val": -85,
                                                                 "next": {
-                                                                  "val": -10,
+                                                                  "val": 47,
                                                                   "next": {
-                                                                    "val": 30,
+                                                                    "val": -71,
                                                                     "next": {
-                                                                      "val": 80,
+                                                                      "val": -44,
                                                                       "next": {
-                                                                        "val": 75,
+                                                                        "val": 4,
                                                                         "next": {
-                                                                          "val": 83,
-                                                                          "next": null
+                                                                          "val": 77,
+                                                                          "next": {
+                                                                            "val": -22,
+                                                                            "next": {
+                                                                              "val": -61,
+                                                                              "next": null
+                                                                            }
+                                                                          }
                                                                         }
                                                                       }
                                                                     }
@@ -1501,76 +791,82 @@
       }
     },
     {
-      "val": -69,
+      "val": -98,
       "next": {
-        "val": -20,
+        "val": 97,
         "next": {
-          "val": -65,
+          "val": -24,
           "next": {
-            "val": -62,
+            "val": -69,
             "next": {
-              "val": -98,
+              "val": 3,
               "next": {
-                "val": 32,
+                "val": 19,
                 "next": {
-                  "val": 16,
+                  "val": -19,
                   "next": {
-                    "val": 74,
+                    "val": -29,
                     "next": {
-                      "val": 33,
+                      "val": -18,
                       "next": {
-                        "val": 52,
+                        "val": 83,
                         "next": {
-                          "val": -95,
+                          "val": 91,
                           "next": {
-                            "val": -56,
+                            "val": -92,
                             "next": {
-                              "val": -31,
+                              "val": 9,
                               "next": {
-                                "val": 42,
+                                "val": -64,
                                 "next": {
-                                  "val": 21,
+                                  "val": 82,
                                   "next": {
-                                    "val": 85,
+                                    "val": -31,
                                     "next": {
-                                      "val": 32,
+                                      "val": -35,
                                       "next": {
-                                        "val": -28,
+                                        "val": -35,
                                         "next": {
-                                          "val": 58,
+                                          "val": -44,
                                           "next": {
-                                            "val": 1,
+                                            "val": -11,
                                             "next": {
-                                              "val": -99,
+                                              "val": -59,
                                               "next": {
-                                                "val": -17,
+                                                "val": -57,
                                                 "next": {
-                                                  "val": 91,
+                                                  "val": 52,
                                                   "next": {
-                                                    "val": -43,
+                                                    "val": -28,
                                                     "next": {
-                                                      "val": 20,
+                                                      "val": 68,
                                                       "next": {
-                                                        "val": -63,
+                                                        "val": 33,
                                                         "next": {
-                                                          "val": 2,
+                                                          "val": 28,
                                                           "next": {
-                                                            "val": 65,
+                                                            "val": 75,
                                                             "next": {
-                                                              "val": -71,
+                                                              "val": 33,
                                                               "next": {
-                                                                "val": -12,
+                                                                "val": -58,
                                                                 "next": {
-                                                                  "val": 23,
+                                                                  "val": -56,
                                                                   "next": {
-                                                                    "val": 89,
+                                                                    "val": 62,
                                                                     "next": {
-                                                                      "val": 41,
+                                                                      "val": 11,
                                                                       "next": {
-                                                                        "val": -63,
+                                                                        "val": 39,
                                                                         "next": {
-                                                                          "val": -28,
-                                                                          "next": null
+                                                                          "val": 76,
+                                                                          "next": {
+                                                                            "val": -24,
+                                                                            "next": {
+                                                                              "val": 31,
+                                                                              "next": null
+                                                                            }
+                                                                          }
                                                                         }
                                                                       }
                                                                     }
@@ -1609,20 +905,77 @@
   ],
   [
     {
-      "val": -96,
+      "val": 27,
       "next": {
-        "val": 87,
+        "val": -24,
         "next": {
-          "val": -36,
+          "val": 77,
           "next": {
-            "val": 90,
+            "val": 7,
             "next": {
-              "val": -88,
+              "val": -5,
               "next": {
-                "val": 16,
+                "val": 48,
                 "next": {
-                  "val": 69,
-                  "next": null
+                  "val": 96,
+                  "next": {
+                    "val": -82,
+                    "next": {
+                      "val": 45,
+                      "next": {
+                        "val": -34,
+                        "next": {
+                          "val": 80,
+                          "next": {
+                            "val": 53,
+                            "next": {
+                              "val": 82,
+                              "next": {
+                                "val": -100,
+                                "next": {
+                                  "val": 83,
+                                  "next": {
+                                    "val": -98,
+                                    "next": {
+                                      "val": -94,
+                                      "next": {
+                                        "val": 62,
+                                        "next": {
+                                          "val": -70,
+                                          "next": {
+                                            "val": 13,
+                                            "next": {
+                                              "val": -26,
+                                              "next": {
+                                                "val": 19,
+                                                "next": {
+                                                  "val": -52,
+                                                  "next": {
+                                                    "val": -67,
+                                                    "next": {
+                                                      "val": -94,
+                                                      "next": {
+                                                        "val": 52,
+                                                        "next": null
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
                 }
               }
             }
@@ -1631,20 +984,77 @@
       }
     },
     {
-      "val": -68,
+      "val": 84,
       "next": {
-        "val": 44,
+        "val": 16,
         "next": {
-          "val": 67,
+          "val": -51,
           "next": {
-            "val": -28,
+            "val": 74,
             "next": {
-              "val": -13,
+              "val": 22,
               "next": {
-                "val": 9,
+                "val": 48,
                 "next": {
-                  "val": -25,
-                  "next": null
+                  "val": -42,
+                  "next": {
+                    "val": 94,
+                    "next": {
+                      "val": 45,
+                      "next": {
+                        "val": 30,
+                        "next": {
+                          "val": -100,
+                          "next": {
+                            "val": 73,
+                            "next": {
+                              "val": -20,
+                              "next": {
+                                "val": 67,
+                                "next": {
+                                  "val": 87,
+                                  "next": {
+                                    "val": -70,
+                                    "next": {
+                                      "val": 52,
+                                      "next": {
+                                        "val": 71,
+                                        "next": {
+                                          "val": -7,
+                                          "next": {
+                                            "val": 20,
+                                            "next": {
+                                              "val": 69,
+                                              "next": {
+                                                "val": -88,
+                                                "next": {
+                                                  "val": -30,
+                                                  "next": {
+                                                    "val": 18,
+                                                    "next": {
+                                                      "val": -43,
+                                                      "next": {
+                                                        "val": -89,
+                                                        "next": null
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
                 }
               }
             }
@@ -1652,5 +1062,31 @@
         }
       }
     }
+  ],
+  [
+    {
+      "val": 27,
+      "next": {
+        "val": -94,
+        "next": {
+          "val": -3,
+          "next": null
+        }
+      }
+    },
+    {
+      "val": 70,
+      "next": {
+        "val": -49,
+        "next": {
+          "val": -28,
+          "next": null
+        }
+      }
+    }
+  ],
+  [
+    null,
+    null
   ]
 ]
