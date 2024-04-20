@@ -21,7 +21,7 @@ function generateRandomLinkedList(length, minVal, maxVal) {
 function generateTestData() {
     let testData = [];
 
-    for (let i = 0; i < 10; i++) {
+    for (let i = 0; i < 1000; i++) {
         let length = Math.floor(Math.random() * 51); // Comprimento aleatório entre 0 e 50
         let list1 = generateRandomLinkedList(length, -100, 100); // Valores aleatórios entre -100 e 100
         let list2 = generateRandomLinkedList(length, -100, 100); // Valores aleatórios entre -100 e 100
@@ -44,7 +44,7 @@ describe('mergeTwoLists', () => {
         (list1, list2) => {
             let mergedList = mergeTwoLists(list1, list2);
             let mergedListAlternative = mergeTwoListsAlternative(list1, list2);
-            expect(mergedList).toBe(mergedListAlternative);
+            expect(mergedList).toEqual(mergedListAlternative);
         }
     );
 });
