@@ -1,4 +1,4 @@
-const ListNode = require('./ListNode');
+const ListNode = require('./auxiliares/ListNode');
 
 var mergeTwoLists = function(list1, list2) {
     // Função auxiliar para comparar valores e ordenar os nós

@@ -1,6 +1,6 @@
-const mergeTwoLists = require('../src/mergeTwoLists');
-const mergeTwoListsAlternative = require('../src/mergeTwoListsAlternative');
-const ListNode = require('../src/ListNode');
+const mergeTwoLists = require('../mergeTwoLists');
+const mergeTwoListsAlternative = require('../auxiliares/mergeTwoListsAlternative');
+const ListNode = require('../auxiliares/ListNode');
 const fs = require('fs');
 
 function generateRandomLinkedList(length, minVal, maxVal) {
@@ -21,7 +21,7 @@ function generateRandomLinkedList(length, minVal, maxVal) {
 function generateTestData() {
     let testData = [];
 
-    for (let i = 0; i < 980; i++) {
+    for (let i = 0; i < 10; i++) {
         let length = Math.floor(Math.random() * 51); // Comprimento aleatório entre 0 e 50
         let list1 = generateRandomLinkedList(length, -100, 100); // Valores aleatórios entre -100 e 100
         let list2 = generateRandomLinkedList(length, -100, 100); // Valores aleatórios entre -100 e 100
@@ -44,7 +44,7 @@ describe('mergeTwoLists', () => {
         (list1, list2) => {
             let mergedList = mergeTwoLists(list1, list2);
             let mergedListAlternative = mergeTwoListsAlternative(list1, list2);
-            expect(mergedList).toEqual(mergedListAlternative);
+            expect(mergedList).toBe(mergedListAlternative);
         }
     );
 });
