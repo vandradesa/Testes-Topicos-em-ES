@@ -1,0 +1,11 @@
+para instalar o jest:
+npm install --save-dev jest
+
+para executar o teste jest:
+npx jest test
+
+para executar o script:
+node script/script
+
+para executar outro código .js:
+node caminho-do-arquivo

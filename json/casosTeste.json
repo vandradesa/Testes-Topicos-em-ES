@@ -1,0 +1,5804 @@
+[
+  {
+    "teste": "1",
+    "entrada": 2651,
+    "validacao": true,
+    "saidaEsperada": "MMDCLI"
+  },
+  {
+    "teste": "2",
+    "entrada": 2474,
+    "validacao": true,
+    "saidaEsperada": "MMCDLXXIV"
+  },
+  {
+    "teste": "3",
+    "entrada": 4655,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "4",
+    "entrada": 65,
+    "validacao": true,
+    "saidaEsperada": "LXV"
+  },
+  {
+    "teste": "5",
+    "entrada": 4684,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "6",
+    "entrada": 3690,
+    "validacao": true,
+    "saidaEsperada": "MMMDCXC"
+  },
+  {
+    "teste": "7",
+    "entrada": 2182,
+    "validacao": true,
+    "saidaEsperada": "MMCLXXXII"
+  },
+  {
+    "teste": "8",
+    "entrada": 2857,
+    "validacao": true,
+    "saidaEsperada": "MMDCCCLVII"
+  },
+  {
+    "teste": "9",
+    "entrada": 1868,
+    "validacao": true,
+    "saidaEsperada": "MDCCCLXVIII"
+  },
+  {
+    "teste": "10",
+    "entrada": 3354,
+    "validacao": true,
+    "saidaEsperada": "MMMCCCLIV"
+  },
+  {
+    "teste": "11",
+    "entrada": 1151,
+    "validacao": true,
+    "saidaEsperada": "MCLI"
+  },
+  {
+    "teste": "12",
+    "entrada": 2427,
+    "validacao": true,
+    "saidaEsperada": "MMCDXXVII"
+  },
+  {
+    "teste": "13",
+    "entrada": 3316,
+    "validacao": true,
+    "saidaEsperada": "MMMCCCXVI"
+  },
+  {
+    "teste": "14",
+    "entrada": 2190,
+    "validacao": true,
+    "saidaEsperada": "MMCXC"
+  },
+  {
+    "teste": "15",
+    "entrada": 1372,
+    "validacao": true,
+    "saidaEsperada": "MCCCLXXII"
+  },
+  {
+    "teste": "16",
+    "entrada": 2050,
+    "validacao": true,
+    "saidaEsperada": "MML"
+  },
+  {
+    "teste": "17",
+    "entrada": -131,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "18",
+    "entrada": 4550,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "19",
+    "entrada": 1032,
+    "validacao": true,
+    "saidaEsperada": "MXXXII"
+  },
+  {
+    "teste": "20",
+    "entrada": 708,
+    "validacao": true,
+    "saidaEsperada": "DCCVIII"
+  },
+  {
+    "teste": "21",
+    "entrada": 1062,
+    "validacao": true,
+    "saidaEsperada": "MLXII"
+  },
+  {
+    "teste": "22",
+    "entrada": 4020,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "23",
+    "entrada": 4134,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "24",
+    "entrada": 695,
+    "validacao": true,
+    "saidaEsperada": "DCXCV"
+  },
+  {
+    "teste": "25",
+    "entrada": 2200,
+    "validacao": true,
+    "saidaEsperada": "MMCC"
+  },
+  {
+    "teste": "26",
+    "entrada": 3817,
+    "validacao": true,
+    "saidaEsperada": "MMMDCCCXVII"
+  },
+  {
+    "teste": "27",
+    "entrada": 3913,
+    "validacao": true,
+    "saidaEsperada": "MMMCMXIII"
+  },
+  {
+    "teste": "28",
+    "entrada": 2628,
+    "validacao": true,
+    "saidaEsperada": "MMDCXXVIII"
+  },
+  {
+    "teste": "29",
+    "entrada": 2193,
+    "validacao": true,
+    "saidaEsperada": "MMCXCIII"
+  },
+  {
+    "teste": "30",
+    "entrada": 72,
+    "validacao": true,
+    "saidaEsperada": "LXXII"
+  },
+  {
+    "teste": "31",
+    "entrada": 657,
+    "validacao": true,
+    "saidaEsperada": "DCLVII"
+  },
+  {
+    "teste": "32",
+    "entrada": 794,
+    "validacao": true,
+    "saidaEsperada": "DCCXCIV"
+  },
+  {
+    "teste": "33",
+    "entrada": 4713,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "34",
+    "entrada": 1199,
+    "validacao": true,
+    "saidaEsperada": "MCXCIX"
+  },
+  {
+    "teste": "35",
+    "entrada": 1683,
+    "validacao": true,
+    "saidaEsperada": "MDCLXXXIII"
+  },
+  {
+    "teste": "36",
+    "entrada": 835,
+    "validacao": true,
+    "saidaEsperada": "DCCCXXXV"
+  },
+  {
+    "teste": "37",
+    "entrada": 4854,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "38",
+    "entrada": -388,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "39",
+    "entrada": 1397,
+    "validacao": true,
+    "saidaEsperada": "MCCCXCVII"
+  },
+  {
+    "teste": "40",
+    "entrada": 2874,
+    "validacao": true,
+    "saidaEsperada": "MMDCCCLXXIV"
+  },
+  {
+    "teste": "41",
+    "entrada": 3355,
+    "validacao": true,
+    "saidaEsperada": "MMMCCCLV"
+  },
+  {
+    "teste": "42",
+    "entrada": -249,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "43",
+    "entrada": 3561,
+    "validacao": true,
+    "saidaEsperada": "MMMDLXI"
+  },
+  {
+    "teste": "44",
+    "entrada": 2541,
+    "validacao": true,
+    "saidaEsperada": "MMDXLI"
+  },
+  {
+    "teste": "45",
+    "entrada": 2890,
+    "validacao": true,
+    "saidaEsperada": "MMDCCCXC"
+  },
+  {
+    "teste": "46",
+    "entrada": 1063,
+    "validacao": true,
+    "saidaEsperada": "MLXIII"
+  },
+  {
+    "teste": "47",
+    "entrada": 2018,
+    "validacao": true,
+    "saidaEsperada": "MMXVIII"
+  },
+  {
+    "teste": "48",
+    "entrada": 2398,
+    "validacao": true,
+    "saidaEsperada": "MMCCCXCVIII"
+  },
+  {
+    "teste": "49",
+    "entrada": 3356,
+    "validacao": true,
+    "saidaEsperada": "MMMCCCLVI"
+  },
+  {
+    "teste": "50",
+    "entrada": 2669,
+    "validacao": true,
+    "saidaEsperada": "MMDCLXIX"
+  },
+  {
+    "teste": "51",
+    "entrada": 1254,
+    "validacao": true,
+    "saidaEsperada": "MCCLIV"
+  },
+  {
+    "teste": "52",
+    "entrada": 2032,
+    "validacao": true,
+    "saidaEsperada": "MMXXXII"
+  },
+  {
+    "teste": "53",
+    "entrada": 3210,
+    "validacao": true,
+    "saidaEsperada": "MMMCCX"
+  },
+  {
+    "teste": "54",
+    "entrada": 2213,
+    "validacao": true,
+    "saidaEsperada": "MMCCXIII"
+  },
+  {
+    "teste": "55",
+    "entrada": 4291,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "56",
+    "entrada": -476,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "57",
+    "entrada": 2912,
+    "validacao": true,
+    "saidaEsperada": "MMCMXII"
+  },
+  {
+    "teste": "58",
+    "entrada": 2309,
+    "validacao": true,
+    "saidaEsperada": "MMCCCIX"
+  },
+  {
+    "teste": "59",
+    "entrada": 3718,
+    "validacao": true,
+    "saidaEsperada": "MMMDCCXVIII"
+  },
+  {
+    "teste": "60",
+    "entrada": 1114,
+    "validacao": true,
+    "saidaEsperada": "MCXIV"
+  },
+  {
+    "teste": "61",
+    "entrada": 4407,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "62",
+    "entrada": 3765,
+    "validacao": true,
+    "saidaEsperada": "MMMDCCLXV"
+  },
+  {
+    "teste": "63",
+    "entrada": 4066,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "64",
+    "entrada": 1780,
+    "validacao": true,
+    "saidaEsperada": "MDCCLXXX"
+  },
+  {
+    "teste": "65",
+    "entrada": 1958,
+    "validacao": true,
+    "saidaEsperada": "MCMLVIII"
+  },
+  {
+    "teste": "66",
+    "entrada": 1719,
+    "validacao": true,
+    "saidaEsperada": "MDCCXIX"
+  },
+  {
+    "teste": "67",
+    "entrada": 4858,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "68",
+    "entrada": 4141,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "69",
+    "entrada": 4362,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "70",
+    "entrada": 1025,
+    "validacao": true,
+    "saidaEsperada": "MXXV"
+  },
+  {
+    "teste": "71",
+    "entrada": 1518,
+    "validacao": true,
+    "saidaEsperada": "MDXVIII"
+  },
+  {
+    "teste": "72",
+    "entrada": 3307,
+    "validacao": true,
+    "saidaEsperada": "MMMCCCVII"
+  },
+  {
+    "teste": "73",
+    "entrada": 241,
+    "validacao": true,
+    "saidaEsperada": "CCXLI"
+  },
+  {
+    "teste": "74",
+    "entrada": -7,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "75",
+    "entrada": 483,
+    "validacao": true,
+    "saidaEsperada": "CDLXXXIII"
+  },
+  {
+    "teste": "76",
+    "entrada": 2326,
+    "validacao": true,
+    "saidaEsperada": "MMCCCXXVI"
+  },
+  {
+    "teste": "77",
+    "entrada": 3741,
+    "validacao": true,
+    "saidaEsperada": "MMMDCCXLI"
+  },
+  {
+    "teste": "78",
+    "entrada": 2489,
+    "validacao": true,
+    "saidaEsperada": "MMCDLXXXIX"
+  },
+  {
+    "teste": "79",
+    "entrada": 913,
+    "validacao": true,
+    "saidaEsperada": "CMXIII"
+  },
+  {
+    "teste": "80",
+    "entrada": 3522,
+    "validacao": true,
+    "saidaEsperada": "MMMDXXII"
+  },
+  {
+    "teste": "81",
+    "entrada": 1365,
+    "validacao": true,
+    "saidaEsperada": "MCCCLXV"
+  },
+  {
+    "teste": "82",
+    "entrada": 2576,
+    "validacao": true,
+    "saidaEsperada": "MMDLXXVI"
+  },
+  {
+    "teste": "83",
+    "entrada": 2150,
+    "validacao": true,
+    "saidaEsperada": "MMCL"
+  },
+  {
+    "teste": "84",
+    "entrada": 2565,
+    "validacao": true,
+    "saidaEsperada": "MMDLXV"
+  },
+  {
+    "teste": "85",
+    "entrada": 2956,
+    "validacao": true,
+    "saidaEsperada": "MMCMLVI"
+  },
+  {
+    "teste": "86",
+    "entrada": 3558,
+    "validacao": true,
+    "saidaEsperada": "MMMDLVIII"
+  },
+  {
+    "teste": "87",
+    "entrada": 4086,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "88",
+    "entrada": -85,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "89",
+    "entrada": 3338,
+    "validacao": true,
+    "saidaEsperada": "MMMCCCXXXVIII"
+  },
+  {
+    "teste": "90",
+    "entrada": -281,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "91",
+    "entrada": 2966,
+    "validacao": true,
+    "saidaEsperada": "MMCMLXVI"
+  },
+  {
+    "teste": "92",
+    "entrada": -201,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "93",
+    "entrada": 1300,
+    "validacao": true,
+    "saidaEsperada": "MCCC"
+  },
+  {
+    "teste": "94",
+    "entrada": 2890,
+    "validacao": true,
+    "saidaEsperada": "MMDCCCXC"
+  },
+  {
+    "teste": "95",
+    "entrada": 3192,
+    "validacao": true,
+    "saidaEsperada": "MMMCXCII"
+  },
+  {
+    "teste": "96",
+    "entrada": 4564,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "97",
+    "entrada": 3068,
+    "validacao": true,
+    "saidaEsperada": "MMMLXVIII"
+  },
+  {
+    "teste": "98",
+    "entrada": 888,
+    "validacao": true,
+    "saidaEsperada": "DCCCLXXXVIII"
+  },
+  {
+    "teste": "99",
+    "entrada": 313,
+    "validacao": true,
+    "saidaEsperada": "CCCXIII"
+  },
+  {
+    "teste": "100",
+    "entrada": 2509,
+    "validacao": true,
+    "saidaEsperada": "MMDIX"
+  },
+  {
+    "teste": "101",
+    "entrada": 447,
+    "validacao": true,
+    "saidaEsperada": "CDXLVII"
+  },
+  {
+    "teste": "102",
+    "entrada": 2890,
+    "validacao": true,
+    "saidaEsperada": "MMDCCCXC"
+  },
+  {
+    "teste": "103",
+    "entrada": 331,
+    "validacao": true,
+    "saidaEsperada": "CCCXXXI"
+  },
+  {
+    "teste": "104",
+    "entrada": 2672,
+    "validacao": true,
+    "saidaEsperada": "MMDCLXXII"
+  },
+  {
+    "teste": "105",
+    "entrada": 1322,
+    "validacao": true,
+    "saidaEsperada": "MCCCXXII"
+  },
+  {
+    "teste": "106",
+    "entrada": 4388,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "107",
+    "entrada": 2013,
+    "validacao": true,
+    "saidaEsperada": "MMXIII"
+  },
+  {
+    "teste": "108",
+    "entrada": 4853,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "109",
+    "entrada": 679,
+    "validacao": true,
+    "saidaEsperada": "DCLXXIX"
+  },
+  {
+    "teste": "110",
+    "entrada": 2995,
+    "validacao": true,
+    "saidaEsperada": "MMCMXCV"
+  },
+  {
+    "teste": "111",
+    "entrada": 376,
+    "validacao": true,
+    "saidaEsperada": "CCCLXXVI"
+  },
+  {
+    "teste": "112",
+    "entrada": 3223,
+    "validacao": true,
+    "saidaEsperada": "MMMCCXXIII"
+  },
+  {
+    "teste": "113",
+    "entrada": 1604,
+    "validacao": true,
+    "saidaEsperada": "MDCIV"
+  },
+  {
+    "teste": "114",
+    "entrada": 2704,
+    "validacao": true,
+    "saidaEsperada": "MMDCCIV"
+  },
+  {
+    "teste": "115",
+    "entrada": 404,
+    "validacao": true,
+    "saidaEsperada": "CDIV"
+  },
+  {
+    "teste": "116",
+    "entrada": 222,
+    "validacao": true,
+    "saidaEsperada": "CCXXII"
+  },
+  {
+    "teste": "117",
+    "entrada": 2110,
+    "validacao": true,
+    "saidaEsperada": "MMCX"
+  },
+  {
+    "teste": "118",
+    "entrada": 3722,
+    "validacao": true,
+    "saidaEsperada": "MMMDCCXXII"
+  },
+  {
+    "teste": "119",
+    "entrada": 459,
+    "validacao": true,
+    "saidaEsperada": "CDLIX"
+  },
+  {
+    "teste": "120",
+    "entrada": 2053,
+    "validacao": true,
+    "saidaEsperada": "MMLIII"
+  },
+  {
+    "teste": "121",
+    "entrada": 2693,
+    "validacao": true,
+    "saidaEsperada": "MMDCXCIII"
+  },
+  {
+    "teste": "122",
+    "entrada": 3040,
+    "validacao": true,
+    "saidaEsperada": "MMMXL"
+  },
+  {
+    "teste": "123",
+    "entrada": 2027,
+    "validacao": true,
+    "saidaEsperada": "MMXXVII"
+  },
+  {
+    "teste": "124",
+    "entrada": 1230,
+    "validacao": true,
+    "saidaEsperada": "MCCXXX"
+  },
+  {
+    "teste": "125",
+    "entrada": 601,
+    "validacao": true,
+    "saidaEsperada": "DCI"
+  },
+  {
+    "teste": "126",
+    "entrada": -73,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "127",
+    "entrada": 3551,
+    "validacao": true,
+    "saidaEsperada": "MMMDLI"
+  },
+  {
+    "teste": "128",
+    "entrada": 3521,
+    "validacao": true,
+    "saidaEsperada": "MMMDXXI"
+  },
+  {
+    "teste": "129",
+    "entrada": 2835,
+    "validacao": true,
+    "saidaEsperada": "MMDCCCXXXV"
+  },
+  {
+    "teste": "130",
+    "entrada": 741,
+    "validacao": true,
+    "saidaEsperada": "DCCXLI"
+  },
+  {
+    "teste": "131",
+    "entrada": 3547,
+    "validacao": true,
+    "saidaEsperada": "MMMDXLVII"
+  },
+  {
+    "teste": "132",
+    "entrada": -194,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "133",
+    "entrada": 2553,
+    "validacao": true,
+    "saidaEsperada": "MMDLIII"
+  },
+  {
+    "teste": "134",
+    "entrada": 4489,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "135",
+    "entrada": 4287,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "136",
+    "entrada": 1131,
+    "validacao": true,
+    "saidaEsperada": "MCXXXI"
+  },
+  {
+    "teste": "137",
+    "entrada": 593,
+    "validacao": true,
+    "saidaEsperada": "DXCIII"
+  },
+  {
+    "teste": "138",
+    "entrada": 3975,
+    "validacao": true,
+    "saidaEsperada": "MMMCMLXXV"
+  },
+  {
+    "teste": "139",
+    "entrada": 3923,
+    "validacao": true,
+    "saidaEsperada": "MMMCMXXIII"
+  },
+  {
+    "teste": "140",
+    "entrada": 4546,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "141",
+    "entrada": 1785,
+    "validacao": true,
+    "saidaEsperada": "MDCCLXXXV"
+  },
+  {
+    "teste": "142",
+    "entrada": -435,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "143",
+    "entrada": -114,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "144",
+    "entrada": 3644,
+    "validacao": true,
+    "saidaEsperada": "MMMDCXLIV"
+  },
+  {
+    "teste": "145",
+    "entrada": 819,
+    "validacao": true,
+    "saidaEsperada": "DCCCXIX"
+  },
+  {
+    "teste": "146",
+    "entrada": 584,
+    "validacao": true,
+    "saidaEsperada": "DLXXXIV"
+  },
+  {
+    "teste": "147",
+    "entrada": 874,
+    "validacao": true,
+    "saidaEsperada": "DCCCLXXIV"
+  },
+  {
+    "teste": "148",
+    "entrada": 771,
+    "validacao": true,
+    "saidaEsperada": "DCCLXXI"
+  },
+  {
+    "teste": "149",
+    "entrada": 4240,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "150",
+    "entrada": 1008,
+    "validacao": true,
+    "saidaEsperada": "MVIII"
+  },
+  {
+    "teste": "151",
+    "entrada": 197,
+    "validacao": true,
+    "saidaEsperada": "CXCVII"
+  },
+  {
+    "teste": "152",
+    "entrada": 3206,
+    "validacao": true,
+    "saidaEsperada": "MMMCCVI"
+  },
+  {
+    "teste": "153",
+    "entrada": 4007,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "154",
+    "entrada": 3837,
+    "validacao": true,
+    "saidaEsperada": "MMMDCCCXXXVII"
+  },
+  {
+    "teste": "155",
+    "entrada": 4471,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "156",
+    "entrada": 3940,
+    "validacao": true,
+    "saidaEsperada": "MMMCMXL"
+  },
+  {
+    "teste": "157",
+    "entrada": 1836,
+    "validacao": true,
+    "saidaEsperada": "MDCCCXXXVI"
+  },
+  {
+    "teste": "158",
+    "entrada": 2902,
+    "validacao": true,
+    "saidaEsperada": "MMCMII"
+  },
+  {
+    "teste": "159",
+    "entrada": 317,
+    "validacao": true,
+    "saidaEsperada": "CCCXVII"
+  },
+  {
+    "teste": "160",
+    "entrada": 3600,
+    "validacao": true,
+    "saidaEsperada": "MMMDC"
+  },
+  {
+    "teste": "161",
+    "entrada": -87,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "162",
+    "entrada": 4247,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "163",
+    "entrada": -270,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "164",
+    "entrada": 1675,
+    "validacao": true,
+    "saidaEsperada": "MDCLXXV"
+  },
+  {
+    "teste": "165",
+    "entrada": 2137,
+    "validacao": true,
+    "saidaEsperada": "MMCXXXVII"
+  },
+  {
+    "teste": "166",
+    "entrada": 2277,
+    "validacao": true,
+    "saidaEsperada": "MMCCLXXVII"
+  },
+  {
+    "teste": "167",
+    "entrada": 1858,
+    "validacao": true,
+    "saidaEsperada": "MDCCCLVIII"
+  },
+  {
+    "teste": "168",
+    "entrada": 4588,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "169",
+    "entrada": 3814,
+    "validacao": true,
+    "saidaEsperada": "MMMDCCCXIV"
+  },
+  {
+    "teste": "170",
+    "entrada": 3655,
+    "validacao": true,
+    "saidaEsperada": "MMMDCLV"
+  },
+  {
+    "teste": "171",
+    "entrada": 2778,
+    "validacao": true,
+    "saidaEsperada": "MMDCCLXXVIII"
+  },
+  {
+    "teste": "172",
+    "entrada": 2825,
+    "validacao": true,
+    "saidaEsperada": "MMDCCCXXV"
+  },
+  {
+    "teste": "173",
+    "entrada": -125,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "174",
+    "entrada": 1263,
+    "validacao": true,
+    "saidaEsperada": "MCCLXIII"
+  },
+  {
+    "teste": "175",
+    "entrada": 1278,
+    "validacao": true,
+    "saidaEsperada": "MCCLXXVIII"
+  },
+  {
+    "teste": "176",
+    "entrada": 57,
+    "validacao": true,
+    "saidaEsperada": "LVII"
+  },
+  {
+    "teste": "177",
+    "entrada": 1326,
+    "validacao": true,
+    "saidaEsperada": "MCCCXXVI"
+  },
+  {
+    "teste": "178",
+    "entrada": 3328,
+    "validacao": true,
+    "saidaEsperada": "MMMCCCXXVIII"
+  },
+  {
+    "teste": "179",
+    "entrada": 3446,
+    "validacao": true,
+    "saidaEsperada": "MMMCDXLVI"
+  },
+  {
+    "teste": "180",
+    "entrada": 1317,
+    "validacao": true,
+    "saidaEsperada": "MCCCXVII"
+  },
+  {
+    "teste": "181",
+    "entrada": 667,
+    "validacao": true,
+    "saidaEsperada": "DCLXVII"
+  },
+  {
+    "teste": "182",
+    "entrada": 1429,
+    "validacao": true,
+    "saidaEsperada": "MCDXXIX"
+  },
+  {
+    "teste": "183",
+    "entrada": 3217,
+    "validacao": true,
+    "saidaEsperada": "MMMCCXVII"
+  },
+  {
+    "teste": "184",
+    "entrada": 623,
+    "validacao": true,
+    "saidaEsperada": "DCXXIII"
+  },
+  {
+    "teste": "185",
+    "entrada": 4500,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "186",
+    "entrada": 1987,
+    "validacao": true,
+    "saidaEsperada": "MCMLXXXVII"
+  },
+  {
+    "teste": "187",
+    "entrada": 901,
+    "validacao": true,
+    "saidaEsperada": "CMI"
+  },
+  {
+    "teste": "188",
+    "entrada": 922,
+    "validacao": true,
+    "saidaEsperada": "CMXXII"
+  },
+  {
+    "teste": "189",
+    "entrada": 957,
+    "validacao": true,
+    "saidaEsperada": "CMLVII"
+  },
+  {
+    "teste": "190",
+    "entrada": 2166,
+    "validacao": true,
+    "saidaEsperada": "MMCLXVI"
+  },
+  {
+    "teste": "191",
+    "entrada": 4130,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "192",
+    "entrada": 4775,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "193",
+    "entrada": 75,
+    "validacao": true,
+    "saidaEsperada": "LXXV"
+  },
+  {
+    "teste": "194",
+    "entrada": 3159,
+    "validacao": true,
+    "saidaEsperada": "MMMCLIX"
+  },
+  {
+    "teste": "195",
+    "entrada": 4764,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "196",
+    "entrada": 276,
+    "validacao": true,
+    "saidaEsperada": "CCLXXVI"
+  },
+  {
+    "teste": "197",
+    "entrada": 4634,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "198",
+    "entrada": 2678,
+    "validacao": true,
+    "saidaEsperada": "MMDCLXXVIII"
+  },
+  {
+    "teste": "199",
+    "entrada": -89,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "200",
+    "entrada": 3977,
+    "validacao": true,
+    "saidaEsperada": "MMMCMLXXVII"
+  },
+  {
+    "teste": "201",
+    "entrada": 428,
+    "validacao": true,
+    "saidaEsperada": "CDXXVIII"
+  },
+  {
+    "teste": "202",
+    "entrada": 1455,
+    "validacao": true,
+    "saidaEsperada": "MCDLV"
+  },
+  {
+    "teste": "203",
+    "entrada": 106,
+    "validacao": true,
+    "saidaEsperada": "CVI"
+  },
+  {
+    "teste": "204",
+    "entrada": 2492,
+    "validacao": true,
+    "saidaEsperada": "MMCDXCII"
+  },
+  {
+    "teste": "205",
+    "entrada": 1894,
+    "validacao": true,
+    "saidaEsperada": "MDCCCXCIV"
+  },
+  {
+    "teste": "206",
+    "entrada": 235,
+    "validacao": true,
+    "saidaEsperada": "CCXXXV"
+  },
+  {
+    "teste": "207",
+    "entrada": 4555,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "208",
+    "entrada": 744,
+    "validacao": true,
+    "saidaEsperada": "DCCXLIV"
+  },
+  {
+    "teste": "209",
+    "entrada": 3332,
+    "validacao": true,
+    "saidaEsperada": "MMMCCCXXXII"
+  },
+  {
+    "teste": "210",
+    "entrada": 2931,
+    "validacao": true,
+    "saidaEsperada": "MMCMXXXI"
+  },
+  {
+    "teste": "211",
+    "entrada": 2257,
+    "validacao": true,
+    "saidaEsperada": "MMCCLVII"
+  },
+  {
+    "teste": "212",
+    "entrada": 4150,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "213",
+    "entrada": 1316,
+    "validacao": true,
+    "saidaEsperada": "MCCCXVI"
+  },
+  {
+    "teste": "214",
+    "entrada": 2980,
+    "validacao": true,
+    "saidaEsperada": "MMCMLXXX"
+  },
+  {
+    "teste": "215",
+    "entrada": 2028,
+    "validacao": true,
+    "saidaEsperada": "MMXXVIII"
+  },
+  {
+    "teste": "216",
+    "entrada": 2252,
+    "validacao": true,
+    "saidaEsperada": "MMCCLII"
+  },
+  {
+    "teste": "217",
+    "entrada": 1975,
+    "validacao": true,
+    "saidaEsperada": "MCMLXXV"
+  },
+  {
+    "teste": "218",
+    "entrada": 4430,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "219",
+    "entrada": 1402,
+    "validacao": true,
+    "saidaEsperada": "MCDII"
+  },
+  {
+    "teste": "220",
+    "entrada": 200,
+    "validacao": true,
+    "saidaEsperada": "CC"
+  },
+  {
+    "teste": "221",
+    "entrada": -477,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "222",
+    "entrada": 1173,
+    "validacao": true,
+    "saidaEsperada": "MCLXXIII"
+  },
+  {
+    "teste": "223",
+    "entrada": 3302,
+    "validacao": true,
+    "saidaEsperada": "MMMCCCII"
+  },
+  {
+    "teste": "224",
+    "entrada": 4872,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "225",
+    "entrada": 3225,
+    "validacao": true,
+    "saidaEsperada": "MMMCCXXV"
+  },
+  {
+    "teste": "226",
+    "entrada": 3899,
+    "validacao": true,
+    "saidaEsperada": "MMMDCCCXCIX"
+  },
+  {
+    "teste": "227",
+    "entrada": 2691,
+    "validacao": true,
+    "saidaEsperada": "MMDCXCI"
+  },
+  {
+    "teste": "228",
+    "entrada": 1597,
+    "validacao": true,
+    "saidaEsperada": "MDXCVII"
+  },
+  {
+    "teste": "229",
+    "entrada": 488,
+    "validacao": true,
+    "saidaEsperada": "CDLXXXVIII"
+  },
+  {
+    "teste": "230",
+    "entrada": 2151,
+    "validacao": true,
+    "saidaEsperada": "MMCLI"
+  },
+  {
+    "teste": "231",
+    "entrada": 3371,
+    "validacao": true,
+    "saidaEsperada": "MMMCCCLXXI"
+  },
+  {
+    "teste": "232",
+    "entrada": 1196,
+    "validacao": true,
+    "saidaEsperada": "MCXCVI"
+  },
+  {
+    "teste": "233",
+    "entrada": 4757,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "234",
+    "entrada": -249,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "235",
+    "entrada": 2044,
+    "validacao": true,
+    "saidaEsperada": "MMXLIV"
+  },
+  {
+    "teste": "236",
+    "entrada": 4379,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "237",
+    "entrada": 4653,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "238",
+    "entrada": 3571,
+    "validacao": true,
+    "saidaEsperada": "MMMDLXXI"
+  },
+  {
+    "teste": "239",
+    "entrada": 1414,
+    "validacao": true,
+    "saidaEsperada": "MCDXIV"
+  },
+  {
+    "teste": "240",
+    "entrada": -500,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "241",
+    "entrada": 187,
+    "validacao": true,
+    "saidaEsperada": "CLXXXVII"
+  },
+  {
+    "teste": "242",
+    "entrada": 4864,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "243",
+    "entrada": 3824,
+    "validacao": true,
+    "saidaEsperada": "MMMDCCCXXIV"
+  },
+  {
+    "teste": "244",
+    "entrada": 1139,
+    "validacao": true,
+    "saidaEsperada": "MCXXXIX"
+  },
+  {
+    "teste": "245",
+    "entrada": 3636,
+    "validacao": true,
+    "saidaEsperada": "MMMDCXXXVI"
+  },
+  {
+    "teste": "246",
+    "entrada": 1928,
+    "validacao": true,
+    "saidaEsperada": "MCMXXVIII"
+  },
+  {
+    "teste": "247",
+    "entrada": 71,
+    "validacao": true,
+    "saidaEsperada": "LXXI"
+  },
+  {
+    "teste": "248",
+    "entrada": 3639,
+    "validacao": true,
+    "saidaEsperada": "MMMDCXXXIX"
+  },
+  {
+    "teste": "249",
+    "entrada": 4209,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "250",
+    "entrada": 2316,
+    "validacao": true,
+    "saidaEsperada": "MMCCCXVI"
+  },
+  {
+    "teste": "251",
+    "entrada": 2890,
+    "validacao": true,
+    "saidaEsperada": "MMDCCCXC"
+  },
+  {
+    "teste": "252",
+    "entrada": 4230,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "253",
+    "entrada": 2024,
+    "validacao": true,
+    "saidaEsperada": "MMXXIV"
+  },
+  {
+    "teste": "254",
+    "entrada": 4880,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "255",
+    "entrada": 1975,
+    "validacao": true,
+    "saidaEsperada": "MCMLXXV"
+  },
+  {
+    "teste": "256",
+    "entrada": 568,
+    "validacao": true,
+    "saidaEsperada": "DLXVIII"
+  },
+  {
+    "teste": "257",
+    "entrada": 3981,
+    "validacao": true,
+    "saidaEsperada": "MMMCMLXXXI"
+  },
+  {
+    "teste": "258",
+    "entrada": 4246,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "259",
+    "entrada": -50,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "260",
+    "entrada": 3797,
+    "validacao": true,
+    "saidaEsperada": "MMMDCCXCVII"
+  },
+  {
+    "teste": "261",
+    "entrada": -409,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "262",
+    "entrada": 646,
+    "validacao": true,
+    "saidaEsperada": "DCXLVI"
+  },
+  {
+    "teste": "263",
+    "entrada": 4112,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "264",
+    "entrada": 714,
+    "validacao": true,
+    "saidaEsperada": "DCCXIV"
+  },
+  {
+    "teste": "265",
+    "entrada": 744,
+    "validacao": true,
+    "saidaEsperada": "DCCXLIV"
+  },
+  {
+    "teste": "266",
+    "entrada": 1733,
+    "validacao": true,
+    "saidaEsperada": "MDCCXXXIII"
+  },
+  {
+    "teste": "267",
+    "entrada": 3708,
+    "validacao": true,
+    "saidaEsperada": "MMMDCCVIII"
+  },
+  {
+    "teste": "268",
+    "entrada": 3602,
+    "validacao": true,
+    "saidaEsperada": "MMMDCII"
+  },
+  {
+    "teste": "269",
+    "entrada": 2166,
+    "validacao": true,
+    "saidaEsperada": "MMCLXVI"
+  },
+  {
+    "teste": "270",
+    "entrada": 2277,
+    "validacao": true,
+    "saidaEsperada": "MMCCLXXVII"
+  },
+  {
+    "teste": "271",
+    "entrada": -83,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "272",
+    "entrada": 728,
+    "validacao": true,
+    "saidaEsperada": "DCCXXVIII"
+  },
+  {
+    "teste": "273",
+    "entrada": 4361,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "274",
+    "entrada": 1249,
+    "validacao": true,
+    "saidaEsperada": "MCCXLIX"
+  },
+  {
+    "teste": "275",
+    "entrada": 4903,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "276",
+    "entrada": 2287,
+    "validacao": true,
+    "saidaEsperada": "MMCCLXXXVII"
+  },
+  {
+    "teste": "277",
+    "entrada": 4909,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "278",
+    "entrada": 2261,
+    "validacao": true,
+    "saidaEsperada": "MMCCLXI"
+  },
+  {
+    "teste": "279",
+    "entrada": 2168,
+    "validacao": true,
+    "saidaEsperada": "MMCLXVIII"
+  },
+  {
+    "teste": "280",
+    "entrada": 620,
+    "validacao": true,
+    "saidaEsperada": "DCXX"
+  },
+  {
+    "teste": "281",
+    "entrada": 3627,
+    "validacao": true,
+    "saidaEsperada": "MMMDCXXVII"
+  },
+  {
+    "teste": "282",
+    "entrada": 3088,
+    "validacao": true,
+    "saidaEsperada": "MMMLXXXVIII"
+  },
+  {
+    "teste": "283",
+    "entrada": -97,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "284",
+    "entrada": 401,
+    "validacao": true,
+    "saidaEsperada": "CDI"
+  },
+  {
+    "teste": "285",
+    "entrada": 3541,
+    "validacao": true,
+    "saidaEsperada": "MMMDXLI"
+  },
+  {
+    "teste": "286",
+    "entrada": 4690,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "287",
+    "entrada": -286,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "288",
+    "entrada": 1165,
+    "validacao": true,
+    "saidaEsperada": "MCLXV"
+  },
+  {
+    "teste": "289",
+    "entrada": 38,
+    "validacao": true,
+    "saidaEsperada": "XXXVIII"
+  },
+  {
+    "teste": "290",
+    "entrada": 4517,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "291",
+    "entrada": -361,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "292",
+    "entrada": 2704,
+    "validacao": true,
+    "saidaEsperada": "MMDCCIV"
+  },
+  {
+    "teste": "293",
+    "entrada": 2801,
+    "validacao": true,
+    "saidaEsperada": "MMDCCCI"
+  },
+  {
+    "teste": "294",
+    "entrada": 3248,
+    "validacao": true,
+    "saidaEsperada": "MMMCCXLVIII"
+  },
+  {
+    "teste": "295",
+    "entrada": 3235,
+    "validacao": true,
+    "saidaEsperada": "MMMCCXXXV"
+  },
+  {
+    "teste": "296",
+    "entrada": -69,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "297",
+    "entrada": 2217,
+    "validacao": true,
+    "saidaEsperada": "MMCCXVII"
+  },
+  {
+    "teste": "298",
+    "entrada": 4754,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "299",
+    "entrada": 4428,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "300",
+    "entrada": 2409,
+    "validacao": true,
+    "saidaEsperada": "MMCDIX"
+  },
+  {
+    "teste": "301",
+    "entrada": 2049,
+    "validacao": true,
+    "saidaEsperada": "MMXLIX"
+  },
+  {
+    "teste": "302",
+    "entrada": 2737,
+    "validacao": true,
+    "saidaEsperada": "MMDCCXXXVII"
+  },
+  {
+    "teste": "303",
+    "entrada": 4042,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "304",
+    "entrada": 3393,
+    "validacao": true,
+    "saidaEsperada": "MMMCCCXCIII"
+  },
+  {
+    "teste": "305",
+    "entrada": 40,
+    "validacao": true,
+    "saidaEsperada": "XL"
+  },
+  {
+    "teste": "306",
+    "entrada": 3098,
+    "validacao": true,
+    "saidaEsperada": "MMMXCVIII"
+  },
+  {
+    "teste": "307",
+    "entrada": 4877,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "308",
+    "entrada": 18,
+    "validacao": true,
+    "saidaEsperada": "XVIII"
+  },
+  {
+    "teste": "309",
+    "entrada": 877,
+    "validacao": true,
+    "saidaEsperada": "DCCCLXXVII"
+  },
+  {
+    "teste": "310",
+    "entrada": 4897,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "311",
+    "entrada": 4260,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "312",
+    "entrada": -291,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "313",
+    "entrada": 809,
+    "validacao": true,
+    "saidaEsperada": "DCCCIX"
+  },
+  {
+    "teste": "314",
+    "entrada": 1082,
+    "validacao": true,
+    "saidaEsperada": "MLXXXII"
+  },
+  {
+    "teste": "315",
+    "entrada": 1765,
+    "validacao": true,
+    "saidaEsperada": "MDCCLXV"
+  },
+  {
+    "teste": "316",
+    "entrada": 4930,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "317",
+    "entrada": 272,
+    "validacao": true,
+    "saidaEsperada": "CCLXXII"
+  },
+  {
+    "teste": "318",
+    "entrada": 356,
+    "validacao": true,
+    "saidaEsperada": "CCCLVI"
+  },
+  {
+    "teste": "319",
+    "entrada": 3498,
+    "validacao": true,
+    "saidaEsperada": "MMMCDXCVIII"
+  },
+  {
+    "teste": "320",
+    "entrada": 4704,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "321",
+    "entrada": 1979,
+    "validacao": true,
+    "saidaEsperada": "MCMLXXIX"
+  },
+  {
+    "teste": "322",
+    "entrada": 3567,
+    "validacao": true,
+    "saidaEsperada": "MMMDLXVII"
+  },
+  {
+    "teste": "323",
+    "entrada": 2568,
+    "validacao": true,
+    "saidaEsperada": "MMDLXVIII"
+  },
+  {
+    "teste": "324",
+    "entrada": 3322,
+    "validacao": true,
+    "saidaEsperada": "MMMCCCXXII"
+  },
+  {
+    "teste": "325",
+    "entrada": 4433,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "326",
+    "entrada": 2205,
+    "validacao": true,
+    "saidaEsperada": "MMCCV"
+  },
+  {
+    "teste": "327",
+    "entrada": 4590,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "328",
+    "entrada": 3644,
+    "validacao": true,
+    "saidaEsperada": "MMMDCXLIV"
+  },
+  {
+    "teste": "329",
+    "entrada": 1429,
+    "validacao": true,
+    "saidaEsperada": "MCDXXIX"
+  },
+  {
+    "teste": "330",
+    "entrada": 3827,
+    "validacao": true,
+    "saidaEsperada": "MMMDCCCXXVII"
+  },
+  {
+    "teste": "331",
+    "entrada": 2032,
+    "validacao": true,
+    "saidaEsperada": "MMXXXII"
+  },
+  {
+    "teste": "332",
+    "entrada": 356,
+    "validacao": true,
+    "saidaEsperada": "CCCLVI"
+  },
+  {
+    "teste": "333",
+    "entrada": 4448,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "334",
+    "entrada": 4310,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "335",
+    "entrada": 3852,
+    "validacao": true,
+    "saidaEsperada": "MMMDCCCLII"
+  },
+  {
+    "teste": "336",
+    "entrada": 1114,
+    "validacao": true,
+    "saidaEsperada": "MCXIV"
+  },
+  {
+    "teste": "337",
+    "entrada": 1180,
+    "validacao": true,
+    "saidaEsperada": "MCLXXX"
+  },
+  {
+    "teste": "338",
+    "entrada": 46,
+    "validacao": true,
+    "saidaEsperada": "XLVI"
+  },
+  {
+    "teste": "339",
+    "entrada": 1389,
+    "validacao": true,
+    "saidaEsperada": "MCCCLXXXIX"
+  },
+  {
+    "teste": "340",
+    "entrada": -220,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "341",
+    "entrada": -197,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "342",
+    "entrada": 3069,
+    "validacao": true,
+    "saidaEsperada": "MMMLXIX"
+  },
+  {
+    "teste": "343",
+    "entrada": 948,
+    "validacao": true,
+    "saidaEsperada": "CMXLVIII"
+  },
+  {
+    "teste": "344",
+    "entrada": 3523,
+    "validacao": true,
+    "saidaEsperada": "MMMDXXIII"
+  },
+  {
+    "teste": "345",
+    "entrada": 196,
+    "validacao": true,
+    "saidaEsperada": "CXCVI"
+  },
+  {
+    "teste": "346",
+    "entrada": 3392,
+    "validacao": true,
+    "saidaEsperada": "MMMCCCXCII"
+  },
+  {
+    "teste": "347",
+    "entrada": 535,
+    "validacao": true,
+    "saidaEsperada": "DXXXV"
+  },
+  {
+    "teste": "348",
+    "entrada": 4165,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "349",
+    "entrada": 3313,
+    "validacao": true,
+    "saidaEsperada": "MMMCCCXIII"
+  },
+  {
+    "teste": "350",
+    "entrada": 1571,
+    "validacao": true,
+    "saidaEsperada": "MDLXXI"
+  },
+  {
+    "teste": "351",
+    "entrada": 2549,
+    "validacao": true,
+    "saidaEsperada": "MMDXLIX"
+  },
+  {
+    "teste": "352",
+    "entrada": 3545,
+    "validacao": true,
+    "saidaEsperada": "MMMDXLV"
+  },
+  {
+    "teste": "353",
+    "entrada": -106,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "354",
+    "entrada": 597,
+    "validacao": true,
+    "saidaEsperada": "DXCVII"
+  },
+  {
+    "teste": "355",
+    "entrada": 2532,
+    "validacao": true,
+    "saidaEsperada": "MMDXXXII"
+  },
+  {
+    "teste": "356",
+    "entrada": 3274,
+    "validacao": true,
+    "saidaEsperada": "MMMCCLXXIV"
+  },
+  {
+    "teste": "357",
+    "entrada": -489,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "358",
+    "entrada": -170,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "359",
+    "entrada": 3764,
+    "validacao": true,
+    "saidaEsperada": "MMMDCCLXIV"
+  },
+  {
+    "teste": "360",
+    "entrada": 3955,
+    "validacao": true,
+    "saidaEsperada": "MMMCMLV"
+  },
+  {
+    "teste": "361",
+    "entrada": 1859,
+    "validacao": true,
+    "saidaEsperada": "MDCCCLIX"
+  },
+  {
+    "teste": "362",
+    "entrada": 2395,
+    "validacao": true,
+    "saidaEsperada": "MMCCCXCV"
+  },
+  {
+    "teste": "363",
+    "entrada": 1276,
+    "validacao": true,
+    "saidaEsperada": "MCCLXXVI"
+  },
+  {
+    "teste": "364",
+    "entrada": 485,
+    "validacao": true,
+    "saidaEsperada": "CDLXXXV"
+  },
+  {
+    "teste": "365",
+    "entrada": 1475,
+    "validacao": true,
+    "saidaEsperada": "MCDLXXV"
+  },
+  {
+    "teste": "366",
+    "entrada": 665,
+    "validacao": true,
+    "saidaEsperada": "DCLXV"
+  },
+  {
+    "teste": "367",
+    "entrada": 1785,
+    "validacao": true,
+    "saidaEsperada": "MDCCLXXXV"
+  },
+  {
+    "teste": "368",
+    "entrada": 3933,
+    "validacao": true,
+    "saidaEsperada": "MMMCMXXXIII"
+  },
+  {
+    "teste": "369",
+    "entrada": 2181,
+    "validacao": true,
+    "saidaEsperada": "MMCLXXXI"
+  },
+  {
+    "teste": "370",
+    "entrada": 720,
+    "validacao": true,
+    "saidaEsperada": "DCCXX"
+  },
+  {
+    "teste": "371",
+    "entrada": 3733,
+    "validacao": true,
+    "saidaEsperada": "MMMDCCXXXIII"
+  },
+  {
+    "teste": "372",
+    "entrada": 1745,
+    "validacao": true,
+    "saidaEsperada": "MDCCXLV"
+  },
+  {
+    "teste": "373",
+    "entrada": 3359,
+    "validacao": true,
+    "saidaEsperada": "MMMCCCLIX"
+  },
+  {
+    "teste": "374",
+    "entrada": 1269,
+    "validacao": true,
+    "saidaEsperada": "MCCLXIX"
+  },
+  {
+    "teste": "375",
+    "entrada": 2773,
+    "validacao": true,
+    "saidaEsperada": "MMDCCLXXIII"
+  },
+  {
+    "teste": "376",
+    "entrada": 4188,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "377",
+    "entrada": 2299,
+    "validacao": true,
+    "saidaEsperada": "MMCCXCIX"
+  },
+  {
+    "teste": "378",
+    "entrada": 4991,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "379",
+    "entrada": 49,
+    "validacao": true,
+    "saidaEsperada": "XLIX"
+  },
+  {
+    "teste": "380",
+    "entrada": 1198,
+    "validacao": true,
+    "saidaEsperada": "MCXCVIII"
+  },
+  {
+    "teste": "381",
+    "entrada": 4648,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "382",
+    "entrada": 736,
+    "validacao": true,
+    "saidaEsperada": "DCCXXXVI"
+  },
+  {
+    "teste": "383",
+    "entrada": 2445,
+    "validacao": true,
+    "saidaEsperada": "MMCDXLV"
+  },
+  {
+    "teste": "384",
+    "entrada": 2055,
+    "validacao": true,
+    "saidaEsperada": "MMLV"
+  },
+  {
+    "teste": "385",
+    "entrada": 3159,
+    "validacao": true,
+    "saidaEsperada": "MMMCLIX"
+  },
+  {
+    "teste": "386",
+    "entrada": 3880,
+    "validacao": true,
+    "saidaEsperada": "MMMDCCCLXXX"
+  },
+  {
+    "teste": "387",
+    "entrada": -481,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "388",
+    "entrada": 4637,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "389",
+    "entrada": 1113,
+    "validacao": true,
+    "saidaEsperada": "MCXIII"
+  },
+  {
+    "teste": "390",
+    "entrada": 2270,
+    "validacao": true,
+    "saidaEsperada": "MMCCLXX"
+  },
+  {
+    "teste": "391",
+    "entrada": 2868,
+    "validacao": true,
+    "saidaEsperada": "MMDCCCLXVIII"
+  },
+  {
+    "teste": "392",
+    "entrada": 432,
+    "validacao": true,
+    "saidaEsperada": "CDXXXII"
+  },
+  {
+    "teste": "393",
+    "entrada": 1242,
+    "validacao": true,
+    "saidaEsperada": "MCCXLII"
+  },
+  {
+    "teste": "394",
+    "entrada": 3173,
+    "validacao": true,
+    "saidaEsperada": "MMMCLXXIII"
+  },
+  {
+    "teste": "395",
+    "entrada": 107,
+    "validacao": true,
+    "saidaEsperada": "CVII"
+  },
+  {
+    "teste": "396",
+    "entrada": 2782,
+    "validacao": true,
+    "saidaEsperada": "MMDCCLXXXII"
+  },
+  {
+    "teste": "397",
+    "entrada": 1860,
+    "validacao": true,
+    "saidaEsperada": "MDCCCLX"
+  },
+  {
+    "teste": "398",
+    "entrada": 304,
+    "validacao": true,
+    "saidaEsperada": "CCCIV"
+  },
+  {
+    "teste": "399",
+    "entrada": 1921,
+    "validacao": true,
+    "saidaEsperada": "MCMXXI"
+  },
+  {
+    "teste": "400",
+    "entrada": 4352,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "401",
+    "entrada": 2089,
+    "validacao": true,
+    "saidaEsperada": "MMLXXXIX"
+  },
+  {
+    "teste": "402",
+    "entrada": 800,
+    "validacao": true,
+    "saidaEsperada": "DCCC"
+  },
+  {
+    "teste": "403",
+    "entrada": 2724,
+    "validacao": true,
+    "saidaEsperada": "MMDCCXXIV"
+  },
+  {
+    "teste": "404",
+    "entrada": 883,
+    "validacao": true,
+    "saidaEsperada": "DCCCLXXXIII"
+  },
+  {
+    "teste": "405",
+    "entrada": 3792,
+    "validacao": true,
+    "saidaEsperada": "MMMDCCXCII"
+  },
+  {
+    "teste": "406",
+    "entrada": 2219,
+    "validacao": true,
+    "saidaEsperada": "MMCCXIX"
+  },
+  {
+    "teste": "407",
+    "entrada": 3612,
+    "validacao": true,
+    "saidaEsperada": "MMMDCXII"
+  },
+  {
+    "teste": "408",
+    "entrada": -42,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "409",
+    "entrada": 4992,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "410",
+    "entrada": 1724,
+    "validacao": true,
+    "saidaEsperada": "MDCCXXIV"
+  },
+  {
+    "teste": "411",
+    "entrada": 3128,
+    "validacao": true,
+    "saidaEsperada": "MMMCXXVIII"
+  },
+  {
+    "teste": "412",
+    "entrada": 3467,
+    "validacao": true,
+    "saidaEsperada": "MMMCDLXVII"
+  },
+  {
+    "teste": "413",
+    "entrada": 1503,
+    "validacao": true,
+    "saidaEsperada": "MDIII"
+  },
+  {
+    "teste": "414",
+    "entrada": -367,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "415",
+    "entrada": 4448,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "416",
+    "entrada": 504,
+    "validacao": true,
+    "saidaEsperada": "DIV"
+  },
+  {
+    "teste": "417",
+    "entrada": 474,
+    "validacao": true,
+    "saidaEsperada": "CDLXXIV"
+  },
+  {
+    "teste": "418",
+    "entrada": 4866,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "419",
+    "entrada": 4502,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "420",
+    "entrada": 2222,
+    "validacao": true,
+    "saidaEsperada": "MMCCXXII"
+  },
+  {
+    "teste": "421",
+    "entrada": 3549,
+    "validacao": true,
+    "saidaEsperada": "MMMDXLIX"
+  },
+  {
+    "teste": "422",
+    "entrada": 292,
+    "validacao": true,
+    "saidaEsperada": "CCXCII"
+  },
+  {
+    "teste": "423",
+    "entrada": -174,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "424",
+    "entrada": 2629,
+    "validacao": true,
+    "saidaEsperada": "MMDCXXIX"
+  },
+  {
+    "teste": "425",
+    "entrada": 3060,
+    "validacao": true,
+    "saidaEsperada": "MMMLX"
+  },
+  {
+    "teste": "426",
+    "entrada": 754,
+    "validacao": true,
+    "saidaEsperada": "DCCLIV"
+  },
+  {
+    "teste": "427",
+    "entrada": 4799,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "428",
+    "entrada": 2849,
+    "validacao": true,
+    "saidaEsperada": "MMDCCCXLIX"
+  },
+  {
+    "teste": "429",
+    "entrada": 170,
+    "validacao": true,
+    "saidaEsperada": "CLXX"
+  },
+  {
+    "teste": "430",
+    "entrada": 762,
+    "validacao": true,
+    "saidaEsperada": "DCCLXII"
+  },
+  {
+    "teste": "431",
+    "entrada": 4539,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "432",
+    "entrada": 1889,
+    "validacao": true,
+    "saidaEsperada": "MDCCCLXXXIX"
+  },
+  {
+    "teste": "433",
+    "entrada": -391,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "434",
+    "entrada": 4260,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "435",
+    "entrada": 4193,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "436",
+    "entrada": 1574,
+    "validacao": true,
+    "saidaEsperada": "MDLXXIV"
+  },
+  {
+    "teste": "437",
+    "entrada": 1474,
+    "validacao": true,
+    "saidaEsperada": "MCDLXXIV"
+  },
+  {
+    "teste": "438",
+    "entrada": 3416,
+    "validacao": true,
+    "saidaEsperada": "MMMCDXVI"
+  },
+  {
+    "teste": "439",
+    "entrada": 4510,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "440",
+    "entrada": 1693,
+    "validacao": true,
+    "saidaEsperada": "MDCXCIII"
+  },
+  {
+    "teste": "441",
+    "entrada": 3717,
+    "validacao": true,
+    "saidaEsperada": "MMMDCCXVII"
+  },
+  {
+    "teste": "442",
+    "entrada": 568,
+    "validacao": true,
+    "saidaEsperada": "DLXVIII"
+  },
+  {
+    "teste": "443",
+    "entrada": 4017,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "444",
+    "entrada": 1311,
+    "validacao": true,
+    "saidaEsperada": "MCCCXI"
+  },
+  {
+    "teste": "445",
+    "entrada": 1689,
+    "validacao": true,
+    "saidaEsperada": "MDCLXXXIX"
+  },
+  {
+    "teste": "446",
+    "entrada": 4364,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "447",
+    "entrada": 4115,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "448",
+    "entrada": 2883,
+    "validacao": true,
+    "saidaEsperada": "MMDCCCLXXXIII"
+  },
+  {
+    "teste": "449",
+    "entrada": 4000,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "450",
+    "entrada": 1271,
+    "validacao": true,
+    "saidaEsperada": "MCCLXXI"
+  },
+  {
+    "teste": "451",
+    "entrada": 1439,
+    "validacao": true,
+    "saidaEsperada": "MCDXXXIX"
+  },
+  {
+    "teste": "452",
+    "entrada": 697,
+    "validacao": true,
+    "saidaEsperada": "DCXCVII"
+  },
+  {
+    "teste": "453",
+    "entrada": 3713,
+    "validacao": true,
+    "saidaEsperada": "MMMDCCXIII"
+  },
+  {
+    "teste": "454",
+    "entrada": 4766,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "455",
+    "entrada": 1842,
+    "validacao": true,
+    "saidaEsperada": "MDCCCXLII"
+  },
+  {
+    "teste": "456",
+    "entrada": 3191,
+    "validacao": true,
+    "saidaEsperada": "MMMCXCI"
+  },
+  {
+    "teste": "457",
+    "entrada": -216,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "458",
+    "entrada": 2151,
+    "validacao": true,
+    "saidaEsperada": "MMCLI"
+  },
+  {
+    "teste": "459",
+    "entrada": 1454,
+    "validacao": true,
+    "saidaEsperada": "MCDLIV"
+  },
+  {
+    "teste": "460",
+    "entrada": 2294,
+    "validacao": true,
+    "saidaEsperada": "MMCCXCIV"
+  },
+  {
+    "teste": "461",
+    "entrada": 4419,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "462",
+    "entrada": 29,
+    "validacao": true,
+    "saidaEsperada": "XXIX"
+  },
+  {
+    "teste": "463",
+    "entrada": 4097,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "464",
+    "entrada": 1054,
+    "validacao": true,
+    "saidaEsperada": "MLIV"
+  },
+  {
+    "teste": "465",
+    "entrada": 651,
+    "validacao": true,
+    "saidaEsperada": "DCLI"
+  },
+  {
+    "teste": "466",
+    "entrada": 666,
+    "validacao": true,
+    "saidaEsperada": "DCLXVI"
+  },
+  {
+    "teste": "467",
+    "entrada": 1707,
+    "validacao": true,
+    "saidaEsperada": "MDCCVII"
+  },
+  {
+    "teste": "468",
+    "entrada": 2362,
+    "validacao": true,
+    "saidaEsperada": "MMCCCLXII"
+  },
+  {
+    "teste": "469",
+    "entrada": 1016,
+    "validacao": true,
+    "saidaEsperada": "MXVI"
+  },
+  {
+    "teste": "470",
+    "entrada": 2822,
+    "validacao": true,
+    "saidaEsperada": "MMDCCCXXII"
+  },
+  {
+    "teste": "471",
+    "entrada": 4661,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "472",
+    "entrada": 3056,
+    "validacao": true,
+    "saidaEsperada": "MMMLVI"
+  },
+  {
+    "teste": "473",
+    "entrada": 435,
+    "validacao": true,
+    "saidaEsperada": "CDXXXV"
+  },
+  {
+    "teste": "474",
+    "entrada": 1163,
+    "validacao": true,
+    "saidaEsperada": "MCLXIII"
+  },
+  {
+    "teste": "475",
+    "entrada": -392,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "476",
+    "entrada": 1739,
+    "validacao": true,
+    "saidaEsperada": "MDCCXXXIX"
+  },
+  {
+    "teste": "477",
+    "entrada": 2506,
+    "validacao": true,
+    "saidaEsperada": "MMDVI"
+  },
+  {
+    "teste": "478",
+    "entrada": 4114,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "479",
+    "entrada": 10,
+    "validacao": true,
+    "saidaEsperada": "X"
+  },
+  {
+    "teste": "480",
+    "entrada": 1502,
+    "validacao": true,
+    "saidaEsperada": "MDII"
+  },
+  {
+    "teste": "481",
+    "entrada": 3755,
+    "validacao": true,
+    "saidaEsperada": "MMMDCCLV"
+  },
+  {
+    "teste": "482",
+    "entrada": 885,
+    "validacao": true,
+    "saidaEsperada": "DCCCLXXXV"
+  },
+  {
+    "teste": "483",
+    "entrada": 1033,
+    "validacao": true,
+    "saidaEsperada": "MXXXIII"
+  },
+  {
+    "teste": "484",
+    "entrada": 3993,
+    "validacao": true,
+    "saidaEsperada": "MMMCMXCIII"
+  },
+  {
+    "teste": "485",
+    "entrada": 2506,
+    "validacao": true,
+    "saidaEsperada": "MMDVI"
+  },
+  {
+    "teste": "486",
+    "entrada": 256,
+    "validacao": true,
+    "saidaEsperada": "CCLVI"
+  },
+  {
+    "teste": "487",
+    "entrada": 705,
+    "validacao": true,
+    "saidaEsperada": "DCCV"
+  },
+  {
+    "teste": "488",
+    "entrada": 2880,
+    "validacao": true,
+    "saidaEsperada": "MMDCCCLXXX"
+  },
+  {
+    "teste": "489",
+    "entrada": -379,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "490",
+    "entrada": 1010,
+    "validacao": true,
+    "saidaEsperada": "MX"
+  },
+  {
+    "teste": "491",
+    "entrada": 2764,
+    "validacao": true,
+    "saidaEsperada": "MMDCCLXIV"
+  },
+  {
+    "teste": "492",
+    "entrada": 216,
+    "validacao": true,
+    "saidaEsperada": "CCXVI"
+  },
+  {
+    "teste": "493",
+    "entrada": 42,
+    "validacao": true,
+    "saidaEsperada": "XLII"
+  },
+  {
+    "teste": "494",
+    "entrada": 3731,
+    "validacao": true,
+    "saidaEsperada": "MMMDCCXXXI"
+  },
+  {
+    "teste": "495",
+    "entrada": 3576,
+    "validacao": true,
+    "saidaEsperada": "MMMDLXXVI"
+  },
+  {
+    "teste": "496",
+    "entrada": 1716,
+    "validacao": true,
+    "saidaEsperada": "MDCCXVI"
+  },
+  {
+    "teste": "497",
+    "entrada": 4200,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "498",
+    "entrada": 2063,
+    "validacao": true,
+    "saidaEsperada": "MMLXIII"
+  },
+  {
+    "teste": "499",
+    "entrada": 42,
+    "validacao": true,
+    "saidaEsperada": "XLII"
+  },
+  {
+    "teste": "500",
+    "entrada": 304,
+    "validacao": true,
+    "saidaEsperada": "CCCIV"
+  },
+  {
+    "teste": "501",
+    "entrada": -62,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "502",
+    "entrada": 4520,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "503",
+    "entrada": 2076,
+    "validacao": true,
+    "saidaEsperada": "MMLXXVI"
+  },
+  {
+    "teste": "504",
+    "entrada": 3929,
+    "validacao": true,
+    "saidaEsperada": "MMMCMXXIX"
+  },
+  {
+    "teste": "505",
+    "entrada": 4699,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "506",
+    "entrada": 4196,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "507",
+    "entrada": 2125,
+    "validacao": true,
+    "saidaEsperada": "MMCXXV"
+  },
+  {
+    "teste": "508",
+    "entrada": 169,
+    "validacao": true,
+    "saidaEsperada": "CLXIX"
+  },
+  {
+    "teste": "509",
+    "entrada": -361,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "510",
+    "entrada": 1157,
+    "validacao": true,
+    "saidaEsperada": "MCLVII"
+  },
+  {
+    "teste": "511",
+    "entrada": 3587,
+    "validacao": true,
+    "saidaEsperada": "MMMDLXXXVII"
+  },
+  {
+    "teste": "512",
+    "entrada": 3093,
+    "validacao": true,
+    "saidaEsperada": "MMMXCIII"
+  },
+  {
+    "teste": "513",
+    "entrada": 2055,
+    "validacao": true,
+    "saidaEsperada": "MMLV"
+  },
+  {
+    "teste": "514",
+    "entrada": 1733,
+    "validacao": true,
+    "saidaEsperada": "MDCCXXXIII"
+  },
+  {
+    "teste": "515",
+    "entrada": 490,
+    "validacao": true,
+    "saidaEsperada": "CDXC"
+  },
+  {
+    "teste": "516",
+    "entrada": 3420,
+    "validacao": true,
+    "saidaEsperada": "MMMCDXX"
+  },
+  {
+    "teste": "517",
+    "entrada": 964,
+    "validacao": true,
+    "saidaEsperada": "CMLXIV"
+  },
+  {
+    "teste": "518",
+    "entrada": 806,
+    "validacao": true,
+    "saidaEsperada": "DCCCVI"
+  },
+  {
+    "teste": "519",
+    "entrada": 4337,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "520",
+    "entrada": 673,
+    "validacao": true,
+    "saidaEsperada": "DCLXXIII"
+  },
+  {
+    "teste": "521",
+    "entrada": 4452,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "522",
+    "entrada": 1284,
+    "validacao": true,
+    "saidaEsperada": "MCCLXXXIV"
+  },
+  {
+    "teste": "523",
+    "entrada": 4939,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "524",
+    "entrada": 2634,
+    "validacao": true,
+    "saidaEsperada": "MMDCXXXIV"
+  },
+  {
+    "teste": "525",
+    "entrada": 3085,
+    "validacao": true,
+    "saidaEsperada": "MMMLXXXV"
+  },
+  {
+    "teste": "526",
+    "entrada": 63,
+    "validacao": true,
+    "saidaEsperada": "LXIII"
+  },
+  {
+    "teste": "527",
+    "entrada": -92,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "528",
+    "entrada": -317,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "529",
+    "entrada": 884,
+    "validacao": true,
+    "saidaEsperada": "DCCCLXXXIV"
+  },
+  {
+    "teste": "530",
+    "entrada": 656,
+    "validacao": true,
+    "saidaEsperada": "DCLVI"
+  },
+  {
+    "teste": "531",
+    "entrada": 4183,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "532",
+    "entrada": 134,
+    "validacao": true,
+    "saidaEsperada": "CXXXIV"
+  },
+  {
+    "teste": "533",
+    "entrada": 4832,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "534",
+    "entrada": 4272,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "535",
+    "entrada": -350,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "536",
+    "entrada": 2248,
+    "validacao": true,
+    "saidaEsperada": "MMCCXLVIII"
+  },
+  {
+    "teste": "537",
+    "entrada": 41,
+    "validacao": true,
+    "saidaEsperada": "XLI"
+  },
+  {
+    "teste": "538",
+    "entrada": 3227,
+    "validacao": true,
+    "saidaEsperada": "MMMCCXXVII"
+  },
+  {
+    "teste": "539",
+    "entrada": -29,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "540",
+    "entrada": 310,
+    "validacao": true,
+    "saidaEsperada": "CCCX"
+  },
+  {
+    "teste": "541",
+    "entrada": 3220,
+    "validacao": true,
+    "saidaEsperada": "MMMCCXX"
+  },
+  {
+    "teste": "542",
+    "entrada": 4370,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "543",
+    "entrada": 1329,
+    "validacao": true,
+    "saidaEsperada": "MCCCXXIX"
+  },
+  {
+    "teste": "544",
+    "entrada": 3872,
+    "validacao": true,
+    "saidaEsperada": "MMMDCCCLXXII"
+  },
+  {
+    "teste": "545",
+    "entrada": 504,
+    "validacao": true,
+    "saidaEsperada": "DIV"
+  },
+  {
+    "teste": "546",
+    "entrada": -436,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "547",
+    "entrada": 759,
+    "validacao": true,
+    "saidaEsperada": "DCCLIX"
+  },
+  {
+    "teste": "548",
+    "entrada": 3872,
+    "validacao": true,
+    "saidaEsperada": "MMMDCCCLXXII"
+  },
+  {
+    "teste": "549",
+    "entrada": 3942,
+    "validacao": true,
+    "saidaEsperada": "MMMCMXLII"
+  },
+  {
+    "teste": "550",
+    "entrada": 1767,
+    "validacao": true,
+    "saidaEsperada": "MDCCLXVII"
+  },
+  {
+    "teste": "551",
+    "entrada": 830,
+    "validacao": true,
+    "saidaEsperada": "DCCCXXX"
+  },
+  {
+    "teste": "552",
+    "entrada": 3180,
+    "validacao": true,
+    "saidaEsperada": "MMMCLXXX"
+  },
+  {
+    "teste": "553",
+    "entrada": 45,
+    "validacao": true,
+    "saidaEsperada": "XLV"
+  },
+  {
+    "teste": "554",
+    "entrada": 4276,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "555",
+    "entrada": 3093,
+    "validacao": true,
+    "saidaEsperada": "MMMXCIII"
+  },
+  {
+    "teste": "556",
+    "entrada": 1628,
+    "validacao": true,
+    "saidaEsperada": "MDCXXVIII"
+  },
+  {
+    "teste": "557",
+    "entrada": 4800,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "558",
+    "entrada": 4125,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "559",
+    "entrada": 3568,
+    "validacao": true,
+    "saidaEsperada": "MMMDLXVIII"
+  },
+  {
+    "teste": "560",
+    "entrada": 1637,
+    "validacao": true,
+    "saidaEsperada": "MDCXXXVII"
+  },
+  {
+    "teste": "561",
+    "entrada": 4563,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "562",
+    "entrada": 2237,
+    "validacao": true,
+    "saidaEsperada": "MMCCXXXVII"
+  },
+  {
+    "teste": "563",
+    "entrada": 4743,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "564",
+    "entrada": 3257,
+    "validacao": true,
+    "saidaEsperada": "MMMCCLVII"
+  },
+  {
+    "teste": "565",
+    "entrada": 1292,
+    "validacao": true,
+    "saidaEsperada": "MCCXCII"
+  },
+  {
+    "teste": "566",
+    "entrada": 2835,
+    "validacao": true,
+    "saidaEsperada": "MMDCCCXXXV"
+  },
+  {
+    "teste": "567",
+    "entrada": 3604,
+    "validacao": true,
+    "saidaEsperada": "MMMDCIV"
+  },
+  {
+    "teste": "568",
+    "entrada": -450,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "569",
+    "entrada": 671,
+    "validacao": true,
+    "saidaEsperada": "DCLXXI"
+  },
+  {
+    "teste": "570",
+    "entrada": -252,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "571",
+    "entrada": 38,
+    "validacao": true,
+    "saidaEsperada": "XXXVIII"
+  },
+  {
+    "teste": "572",
+    "entrada": 1194,
+    "validacao": true,
+    "saidaEsperada": "MCXCIV"
+  },
+  {
+    "teste": "573",
+    "entrada": 562,
+    "validacao": true,
+    "saidaEsperada": "DLXII"
+  },
+  {
+    "teste": "574",
+    "entrada": 336,
+    "validacao": true,
+    "saidaEsperada": "CCCXXXVI"
+  },
+  {
+    "teste": "575",
+    "entrada": 4839,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "576",
+    "entrada": -269,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "577",
+    "entrada": 2660,
+    "validacao": true,
+    "saidaEsperada": "MMDCLX"
+  },
+  {
+    "teste": "578",
+    "entrada": 598,
+    "validacao": true,
+    "saidaEsperada": "DXCVIII"
+  },
+  {
+    "teste": "579",
+    "entrada": 4374,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "580",
+    "entrada": 2896,
+    "validacao": true,
+    "saidaEsperada": "MMDCCCXCVI"
+  },
+  {
+    "teste": "581",
+    "entrada": 3307,
+    "validacao": true,
+    "saidaEsperada": "MMMCCCVII"
+  },
+  {
+    "teste": "582",
+    "entrada": 3316,
+    "validacao": true,
+    "saidaEsperada": "MMMCCCXVI"
+  },
+  {
+    "teste": "583",
+    "entrada": 1842,
+    "validacao": true,
+    "saidaEsperada": "MDCCCXLII"
+  },
+  {
+    "teste": "584",
+    "entrada": 402,
+    "validacao": true,
+    "saidaEsperada": "CDII"
+  },
+  {
+    "teste": "585",
+    "entrada": 370,
+    "validacao": true,
+    "saidaEsperada": "CCCLXX"
+  },
+  {
+    "teste": "586",
+    "entrada": 1936,
+    "validacao": true,
+    "saidaEsperada": "MCMXXXVI"
+  },
+  {
+    "teste": "587",
+    "entrada": 4815,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "588",
+    "entrada": -259,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "589",
+    "entrada": 403,
+    "validacao": true,
+    "saidaEsperada": "CDIII"
+  },
+  {
+    "teste": "590",
+    "entrada": 845,
+    "validacao": true,
+    "saidaEsperada": "DCCCXLV"
+  },
+  {
+    "teste": "591",
+    "entrada": -127,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "592",
+    "entrada": 4614,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "593",
+    "entrada": 3681,
+    "validacao": true,
+    "saidaEsperada": "MMMDCLXXXI"
+  },
+  {
+    "teste": "594",
+    "entrada": -55,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "595",
+    "entrada": 1599,
+    "validacao": true,
+    "saidaEsperada": "MDXCIX"
+  },
+  {
+    "teste": "596",
+    "entrada": 884,
+    "validacao": true,
+    "saidaEsperada": "DCCCLXXXIV"
+  },
+  {
+    "teste": "597",
+    "entrada": 2991,
+    "validacao": true,
+    "saidaEsperada": "MMCMXCI"
+  },
+  {
+    "teste": "598",
+    "entrada": 756,
+    "validacao": true,
+    "saidaEsperada": "DCCLVI"
+  },
+  {
+    "teste": "599",
+    "entrada": 4656,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "600",
+    "entrada": 4591,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "601",
+    "entrada": 2890,
+    "validacao": true,
+    "saidaEsperada": "MMDCCCXC"
+  },
+  {
+    "teste": "602",
+    "entrada": 4355,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "603",
+    "entrada": 1299,
+    "validacao": true,
+    "saidaEsperada": "MCCXCIX"
+  },
+  {
+    "teste": "604",
+    "entrada": 2130,
+    "validacao": true,
+    "saidaEsperada": "MMCXXX"
+  },
+  {
+    "teste": "605",
+    "entrada": 2640,
+    "validacao": true,
+    "saidaEsperada": "MMDCXL"
+  },
+  {
+    "teste": "606",
+    "entrada": 1923,
+    "validacao": true,
+    "saidaEsperada": "MCMXXIII"
+  },
+  {
+    "teste": "607",
+    "entrada": 2169,
+    "validacao": true,
+    "saidaEsperada": "MMCLXIX"
+  },
+  {
+    "teste": "608",
+    "entrada": 2191,
+    "validacao": true,
+    "saidaEsperada": "MMCXCI"
+  },
+  {
+    "teste": "609",
+    "entrada": 3312,
+    "validacao": true,
+    "saidaEsperada": "MMMCCCXII"
+  },
+  {
+    "teste": "610",
+    "entrada": 3940,
+    "validacao": true,
+    "saidaEsperada": "MMMCMXL"
+  },
+  {
+    "teste": "611",
+    "entrada": 1859,
+    "validacao": true,
+    "saidaEsperada": "MDCCCLIX"
+  },
+  {
+    "teste": "612",
+    "entrada": 4568,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "613",
+    "entrada": -495,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "614",
+    "entrada": 855,
+    "validacao": true,
+    "saidaEsperada": "DCCCLV"
+  },
+  {
+    "teste": "615",
+    "entrada": 151,
+    "validacao": true,
+    "saidaEsperada": "CLI"
+  },
+  {
+    "teste": "616",
+    "entrada": 3132,
+    "validacao": true,
+    "saidaEsperada": "MMMCXXXII"
+  },
+  {
+    "teste": "617",
+    "entrada": 1986,
+    "validacao": true,
+    "saidaEsperada": "MCMLXXXVI"
+  },
+  {
+    "teste": "618",
+    "entrada": -65,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "619",
+    "entrada": 3440,
+    "validacao": true,
+    "saidaEsperada": "MMMCDXL"
+  },
+  {
+    "teste": "620",
+    "entrada": 4154,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "621",
+    "entrada": -82,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "622",
+    "entrada": 4587,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "623",
+    "entrada": 3448,
+    "validacao": true,
+    "saidaEsperada": "MMMCDXLVIII"
+  },
+  {
+    "teste": "624",
+    "entrada": 2388,
+    "validacao": true,
+    "saidaEsperada": "MMCCCLXXXVIII"
+  },
+  {
+    "teste": "625",
+    "entrada": 1319,
+    "validacao": true,
+    "saidaEsperada": "MCCCXIX"
+  },
+  {
+    "teste": "626",
+    "entrada": 4677,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "627",
+    "entrada": 3695,
+    "validacao": true,
+    "saidaEsperada": "MMMDCXCV"
+  },
+  {
+    "teste": "628",
+    "entrada": -276,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "629",
+    "entrada": 1254,
+    "validacao": true,
+    "saidaEsperada": "MCCLIV"
+  },
+  {
+    "teste": "630",
+    "entrada": 4019,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "631",
+    "entrada": 4985,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "632",
+    "entrada": 1888,
+    "validacao": true,
+    "saidaEsperada": "MDCCCLXXXVIII"
+  },
+  {
+    "teste": "633",
+    "entrada": 3872,
+    "validacao": true,
+    "saidaEsperada": "MMMDCCCLXXII"
+  },
+  {
+    "teste": "634",
+    "entrada": 1381,
+    "validacao": true,
+    "saidaEsperada": "MCCCLXXXI"
+  },
+  {
+    "teste": "635",
+    "entrada": 3553,
+    "validacao": true,
+    "saidaEsperada": "MMMDLIII"
+  },
+  {
+    "teste": "636",
+    "entrada": 2017,
+    "validacao": true,
+    "saidaEsperada": "MMXVII"
+  },
+  {
+    "teste": "637",
+    "entrada": 4629,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "638",
+    "entrada": 3020,
+    "validacao": true,
+    "saidaEsperada": "MMMXX"
+  },
+  {
+    "teste": "639",
+    "entrada": 1447,
+    "validacao": true,
+    "saidaEsperada": "MCDXLVII"
+  },
+  {
+    "teste": "640",
+    "entrada": 993,
+    "validacao": true,
+    "saidaEsperada": "CMXCIII"
+  },
+  {
+    "teste": "641",
+    "entrada": 4194,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "642",
+    "entrada": 4840,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "643",
+    "entrada": 867,
+    "validacao": true,
+    "saidaEsperada": "DCCCLXVII"
+  },
+  {
+    "teste": "644",
+    "entrada": 4114,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "645",
+    "entrada": 2543,
+    "validacao": true,
+    "saidaEsperada": "MMDXLIII"
+  },
+  {
+    "teste": "646",
+    "entrada": 1161,
+    "validacao": true,
+    "saidaEsperada": "MCLXI"
+  },
+  {
+    "teste": "647",
+    "entrada": 1919,
+    "validacao": true,
+    "saidaEsperada": "MCMXIX"
+  },
+  {
+    "teste": "648",
+    "entrada": 2098,
+    "validacao": true,
+    "saidaEsperada": "MMXCVIII"
+  },
+  {
+    "teste": "649",
+    "entrada": 3579,
+    "validacao": true,
+    "saidaEsperada": "MMMDLXXIX"
+  },
+  {
+    "teste": "650",
+    "entrada": -254,
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "651",
+    "entrada": 1008,
+    "validacao": true,
+    "saidaEsperada": "MVIII"
+  },
+  {
+    "teste": "652",
+    "entrada": "3196.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "653",
+    "entrada": "-2546.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "654",
+    "entrada": "634.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "655",
+    "entrada": "-2640.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "656",
+    "entrada": "-2666.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "657",
+    "entrada": "2030.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "658",
+    "entrada": "-2959.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "659",
+    "entrada": "3781.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "660",
+    "entrada": "-2913.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "661",
+    "entrada": "4118.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "662",
+    "entrada": "-967.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "663",
+    "entrada": "-4407.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "664",
+    "entrada": "-4773.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "665",
+    "entrada": "-2894.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "666",
+    "entrada": "2120.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "667",
+    "entrada": "-1146.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "668",
+    "entrada": "1918.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "669",
+    "entrada": "1380.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "670",
+    "entrada": "-4135.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "671",
+    "entrada": "-1660.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "672",
+    "entrada": "-692.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "673",
+    "entrada": "811.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "674",
+    "entrada": "947.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "675",
+    "entrada": "-2311.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "676",
+    "entrada": "3573.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "677",
+    "entrada": "-1837.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "678",
+    "entrada": "3889.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "679",
+    "entrada": "-876.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "680",
+    "entrada": "1670.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "681",
+    "entrada": "-447.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "682",
+    "entrada": "4761.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "683",
+    "entrada": "-4520.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "684",
+    "entrada": "-954.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "685",
+    "entrada": "-3950.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "686",
+    "entrada": "-1448.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "687",
+    "entrada": "-44.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "688",
+    "entrada": "-2437.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "689",
+    "entrada": "3436.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "690",
+    "entrada": "3515.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "691",
+    "entrada": "2775.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "692",
+    "entrada": "-3600.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "693",
+    "entrada": "-13.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "694",
+    "entrada": "-4653.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "695",
+    "entrada": "-3121.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "696",
+    "entrada": "4145.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "697",
+    "entrada": "-2074.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "698",
+    "entrada": "213.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "699",
+    "entrada": "-1021.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "700",
+    "entrada": "1793.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "701",
+    "entrada": "-1021.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "702",
+    "entrada": "-3431.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "703",
+    "entrada": "3114.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "704",
+    "entrada": "4879.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "705",
+    "entrada": "4925.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "706",
+    "entrada": "-4723.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "707",
+    "entrada": "-1767.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "708",
+    "entrada": "1706.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "709",
+    "entrada": "-1073.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "710",
+    "entrada": "4883.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "711",
+    "entrada": "1260.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "712",
+    "entrada": "-4212.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "713",
+    "entrada": "896.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "714",
+    "entrada": "1836.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "715",
+    "entrada": "-650.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "716",
+    "entrada": "395.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "717",
+    "entrada": "-3947.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "718",
+    "entrada": "1484.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "719",
+    "entrada": "-4671.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "720",
+    "entrada": "2129.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "721",
+    "entrada": "-2264.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "722",
+    "entrada": "4576.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "723",
+    "entrada": "2494.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "724",
+    "entrada": "-882.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "725",
+    "entrada": "411.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "726",
+    "entrada": "-4230.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "727",
+    "entrada": "-1405.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "728",
+    "entrada": "1031.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "729",
+    "entrada": "-3181.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "730",
+    "entrada": "-1923.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "731",
+    "entrada": "-1379.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "732",
+    "entrada": "4209.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "733",
+    "entrada": "1638.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "734",
+    "entrada": "-1809.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "735",
+    "entrada": "-3613.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "736",
+    "entrada": "1861.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "737",
+    "entrada": "349.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "738",
+    "entrada": "521.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "739",
+    "entrada": "-408.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "740",
+    "entrada": "450.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "741",
+    "entrada": "2810.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "742",
+    "entrada": "706.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "743",
+    "entrada": "-4583.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "744",
+    "entrada": "100.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "745",
+    "entrada": "-695.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "746",
+    "entrada": "4421.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "747",
+    "entrada": "-1570.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "748",
+    "entrada": "4683.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "749",
+    "entrada": "3099.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "750",
+    "entrada": "1693.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "751",
+    "entrada": "-1485.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "752",
+    "entrada": "4228.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "753",
+    "entrada": "3816.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "754",
+    "entrada": "1399.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "755",
+    "entrada": "-1886.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "756",
+    "entrada": "491.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "757",
+    "entrada": "-938.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "758",
+    "entrada": "3919.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "759",
+    "entrada": "-1238.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "760",
+    "entrada": "413.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "761",
+    "entrada": "4622.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "762",
+    "entrada": "1042.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "763",
+    "entrada": "-814.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "764",
+    "entrada": "-341.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "765",
+    "entrada": "752.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "766",
+    "entrada": "-1919.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "767",
+    "entrada": "1699.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "768",
+    "entrada": "-2051.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "769",
+    "entrada": "-3066.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "770",
+    "entrada": "1883.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "771",
+    "entrada": "-1334.00",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "772",
+    "entrada": ",MVw=.",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "773",
+    "entrada": "JY,f_Y",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "774",
+    "entrada": "%NLxa>",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "775",
+    "entrada": "Qb(~K=",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "776",
+    "entrada": "U^mB{Q",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "777",
+    "entrada": "D#=f@@",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "778",
+    "entrada": "PVz+sA",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "779",
+    "entrada": "(^>)D:",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "780",
+    "entrada": "|p(/UD",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "781",
+    "entrada": "_Zr,fU",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "782",
+    "entrada": "^,haRP",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "783",
+    "entrada": "uqu(}?",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "784",
+    "entrada": "/&v<bN",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "785",
+    "entrada": "T{Xyj}",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "786",
+    "entrada": "ASaRma",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "787",
+    "entrada": "ThYJrz",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "788",
+    "entrada": "Py;u_#",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "789",
+    "entrada": "{[vwrw",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "790",
+    "entrada": "G#&oSc",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "791",
+    "entrada": "(ZTPo,",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "792",
+    "entrada": "BRne(M",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "793",
+    "entrada": "DDFph%",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "794",
+    "entrada": "F-*H~Z",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "795",
+    "entrada": ":KFD?[",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "796",
+    "entrada": "O(T^Lp",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "797",
+    "entrada": "q=W>l[",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "798",
+    "entrada": "URFe+T",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "799",
+    "entrada": "~!Jss!",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "800",
+    "entrada": ")Vo>XH",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "801",
+    "entrada": "KR#imC",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "802",
+    "entrada": "j|,aVK",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "803",
+    "entrada": "v&y-Dw",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "804",
+    "entrada": "HuwbF?",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "805",
+    "entrada": "nl.])N",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "806",
+    "entrada": "?RMWLZ",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "807",
+    "entrada": "TDMFrj",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "808",
+    "entrada": "Iui^l+",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "809",
+    "entrada": "-}^JW+",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "810",
+    "entrada": "#kpJ;]",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "811",
+    "entrada": "hq(<Wx",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "812",
+    "entrada": "D)R*?F",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "813",
+    "entrada": "zfc?nJ",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "814",
+    "entrada": "Pycf:C",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "815",
+    "entrada": "U{x,v~",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "816",
+    "entrada": "YOTNQ,",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "817",
+    "entrada": "c>cNoY",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "818",
+    "entrada": "-,Y$$;",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "819",
+    "entrada": "J]s,SV",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "820",
+    "entrada": "E=-=LM",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "821",
+    "entrada": "(:c~GL",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "822",
+    "entrada": "]?-oj(",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "823",
+    "entrada": "cJaz`#",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "824",
+    "entrada": "h,ls^O",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "825",
+    "entrada": ">HM}`g",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "826",
+    "entrada": ",EP;L*",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "827",
+    "entrada": "jY&|j-",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "828",
+    "entrada": "I_N:/;",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "829",
+    "entrada": "ALGXV}",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "830",
+    "entrada": ",`zhv#",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "831",
+    "entrada": "H/lZVs",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "832",
+    "entrada": ")ycrUX",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "833",
+    "entrada": "wcRB_]",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "834",
+    "entrada": "jYeL[s",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "835",
+    "entrada": "}J]AkQ",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "836",
+    "entrada": "]{V=Vi",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "837",
+    "entrada": "j>a_*r",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "838",
+    "entrada": "A{&+k.",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "839",
+    "entrada": "nfa*Uf",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "840",
+    "entrada": "W+b+M(",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "841",
+    "entrada": "mh(k%{",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "842",
+    "entrada": "I{c,cT",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "843",
+    "entrada": "drz}^-",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "844",
+    "entrada": "([$M%k",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "845",
+    "entrada": "YxQY#Y",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "846",
+    "entrada": "]/h`=J",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "847",
+    "entrada": "c%ruY{",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "848",
+    "entrada": "cG;wj>",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "849",
+    "entrada": ">Wg!)_",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "850",
+    "entrada": "QtJ;,:",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "851",
+    "entrada": "n`ZvV=",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "852",
+    "entrada": "cGYwJ_",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "853",
+    "entrada": "z[SBw:",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "854",
+    "entrada": "`?KG|t",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "855",
+    "entrada": "O|?fMw",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "856",
+    "entrada": "DWpn.^",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "857",
+    "entrada": "qbFJQA",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "858",
+    "entrada": "NcW?vm",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "859",
+    "entrada": "vaR$QR",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "860",
+    "entrada": "nM#jls",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "861",
+    "entrada": "I|Q.%n",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "862",
+    "entrada": ".(-V!e",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "863",
+    "entrada": "bgcIi!",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "864",
+    "entrada": "[w<soD",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "865",
+    "entrada": "X$qPcy",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "866",
+    "entrada": "a:`*!(",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "867",
+    "entrada": "x_bum{",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "868",
+    "entrada": "`[BIX_",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "869",
+    "entrada": "!&cdm`",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "870",
+    "entrada": "f[xD)v",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "871",
+    "entrada": "&$ggmi",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "872",
+    "entrada": "z#$CR!",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "873",
+    "entrada": "(KFiDL",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "874",
+    "entrada": "HnKJl}",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "875",
+    "entrada": ">I?%J[",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "876",
+    "entrada": "-{Zuuh",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "877",
+    "entrada": ";tn.dT",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "878",
+    "entrada": "#q:$H^",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "879",
+    "entrada": "}TbJK)",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "880",
+    "entrada": "RZ$@}G",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "881",
+    "entrada": "{VH!h]",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "882",
+    "entrada": "f[crf?",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "883",
+    "entrada": "z<b^GP",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "884",
+    "entrada": "&tjQo^",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "885",
+    "entrada": "=DTG)D",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "886",
+    "entrada": "rYCJl:",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "887",
+    "entrada": "m[r_:h",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "888",
+    "entrada": "C&!J@.",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "889",
+    "entrada": "$(fF}?",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "890",
+    "entrada": "jp#nWd",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "891",
+    "entrada": "~}Od`h",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "892",
+    "entrada": ")<xop_",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "893",
+    "entrada": ",o?DN>",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "894",
+    "entrada": "U#!%Lk",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "895",
+    "entrada": "H*Di(m",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "896",
+    "entrada": "KUl,?D",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "897",
+    "entrada": "!c#_m$",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "898",
+    "entrada": "LGv|q$",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "899",
+    "entrada": "a>@W}A",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "900",
+    "entrada": "~bU&m[",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "901",
+    "entrada": "zxrLf<",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "902",
+    "entrada": "C,Ip@k",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "903",
+    "entrada": "`,g^mK",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "904",
+    "entrada": "hzC`qr",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "905",
+    "entrada": "<E>Fif",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "906",
+    "entrada": "fRA+Y.",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "907",
+    "entrada": "D:&mUC",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "908",
+    "entrada": "*dR]gR",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "909",
+    "entrada": "-(YPZ>",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "910",
+    "entrada": "~uE|>Y",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "911",
+    "entrada": "eHIhUR",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "912",
+    "entrada": "BAlfq*",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "913",
+    "entrada": "d+JH,b",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "914",
+    "entrada": "_SG/ol",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "915",
+    "entrada": "l)(yvX",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "916",
+    "entrada": "kNfSZZ",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "917",
+    "entrada": "Wi|b]q",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "918",
+    "entrada": ".;&D=)",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "919",
+    "entrada": "ekf]n,",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "920",
+    "entrada": "N^dhEA",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "921",
+    "entrada": ":qrKxV",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "922",
+    "entrada": "zkMngz",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "923",
+    "entrada": "OhkpPm",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "924",
+    "entrada": "`&&{xx",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "925",
+    "entrada": "QB]<yL",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "926",
+    "entrada": "/nH:Xl",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "927",
+    "entrada": "ZhzS*i",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "928",
+    "entrada": "MScz])",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "929",
+    "entrada": ";+KPBF",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "930",
+    "entrada": "Xl,!P[",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "931",
+    "entrada": "vpOTAB",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "932",
+    "entrada": "H-mEu_",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "933",
+    "entrada": "#TEQ)=",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "934",
+    "entrada": "r%PB#o",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "935",
+    "entrada": "-j_d;p",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "936",
+    "entrada": "IPXe_/",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "937",
+    "entrada": "RMAfkn",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "938",
+    "entrada": "SUkA@T",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "939",
+    "entrada": "A>_C]R",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "940",
+    "entrada": "rFKGIv",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "941",
+    "entrada": "BwsivN",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "942",
+    "entrada": "=:$omr",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "943",
+    "entrada": "ZO]UM;",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "944",
+    "entrada": "cLv^Dv",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "945",
+    "entrada": "%*-tzu",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "946",
+    "entrada": "Bm.#pi",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "947",
+    "entrada": ">@b*:e",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "948",
+    "entrada": "ti;_#C",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "949",
+    "entrada": ">wt$bf",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "950",
+    "entrada": "Bry(RJ",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "951",
+    "entrada": "Ulqb>N",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "952",
+    "entrada": "<qxR~/",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "953",
+    "entrada": "ovwRmz",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "954",
+    "entrada": "Eq!j`.",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "955",
+    "entrada": "Ems[t#",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "956",
+    "entrada": "Z%,?QL",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "957",
+    "entrada": "T{yYnR",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "958",
+    "entrada": "w?p|b(",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "959",
+    "entrada": "WyVPVS",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "960",
+    "entrada": "AeNP,o",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "961",
+    "entrada": "Yrc;Ku",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "962",
+    "entrada": ",g(c}_",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "963",
+    "entrada": "y^^|fg",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "964",
+    "entrada": "lf;QvO",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "965",
+    "entrada": ":_}i?.",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "966",
+    "entrada": "dyDms.",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  },
+  {
+    "teste": "967",
+    "entrada": "[^IPk$",
+    "validacao": false,
+    "saidaEsperada": "Valor invalido. Insira valores numericos inteiros entre 1 e 3999"
+  }
+]
