@@ -164,11 +164,23 @@ describe('Converte Valor Inteiro para Romano', () => {
       expect(intToRoman(13.60)).toBe("Valor invalido. Insira valores numericos inteiros entre 1 e 3999");
     });
 
-    test('Testando valor mais próximo abaixo do limite - 0', () => {
+    test('Valores abaixo do limite mínimo -> 1', () => {
+      expect(intToRoman(-30)).toBe("Valor invalido. Insira valores numericos inteiros entre 1 e 3999");
+      expect(intToRoman(-400)).toBe("Valor invalido. Insira valores numericos inteiros entre 1 e 3999");
+      expect(intToRoman(-5)).toBe("Valor invalido. Insira valores numericos inteiros entre 1 e 3999");
+    });
+
+    test('Valores acima do limite máximo -> 3999', () => {
+      expect(intToRoman(5000)).toBe("Valor invalido. Insira valores numericos inteiros entre 1 e 3999");
+      expect(intToRoman(4001)).toBe("Valor invalido. Insira valores numericos inteiros entre 1 e 3999");
+      expect(intToRoman(10000)).toBe("Valor invalido. Insira valores numericos inteiros entre 1 e 3999");
+    });
+
+    test('Testando valor mais próximo abaixo do limite -> 0', () => {
       expect(intToRoman(0)).toBe("Valor invalido. Insira valores numericos inteiros entre 1 e 3999");
     });
 
-    test('Testando valor mais próximo acima do limite - 4000', () => {
+    test('Testando valor mais próximo acima do limite -> 4000', () => {
       expect(intToRoman(4000)).toBe("Valor invalido. Insira valores numericos inteiros entre 1 e 3999");
     });    
   });

@@ -59,7 +59,7 @@ function gerarCasosTesteString(index){
 function writeTestCasesToFile() {
     const casosTeste = [];
 
-    for (let i = 0; i < 967; i++) {
+    for (let i = 0; i < 965; i++) {
 
         if (i <= 650){
             casosTeste.push(gerarCasosTesteInteiro(i+1));
@@ -75,8 +75,6 @@ function writeTestCasesToFile() {
         
     }
 
-    
-    
     const jsonContent = JSON.stringify(casosTeste, null, 2);
     fs.writeFileSync('json/casosTeste.json', jsonContent);
 }
