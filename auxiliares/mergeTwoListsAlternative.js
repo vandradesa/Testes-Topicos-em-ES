@@ -1,6 +1,16 @@
 const ListNode = require('./ListNode');
 
 var mergeTwoListsAlternative = function(list1, list2) {
+        // Verifica se list1 é um array e converte para lista ligada se for
+        if (Array.isArray(list1)) {
+            list1 = createLinkedListFromArray(list1);
+        }
+    
+        // Verifica se list2 é um array e converte para lista ligada se for
+        if (Array.isArray(list2)) {
+            list2 = createLinkedListFromArray(list2);
+        }
+        
     let dummy = new ListNode(); // Crie um nó fictício vazio
     let current = dummy;
 
@@ -42,5 +52,20 @@ var mergeTwoListsAlternative = function(list1, list2) {
 
     return dummy.next;
 };
+
+// Função auxiliar para criar uma lista ligada a partir de um array
+function createLinkedListFromArray(arr) {
+    if (arr.length === 0) return null;
+
+    let head = new ListNode(arr[0]);
+    let current = head;
+
+    for (let i = 1; i < arr.length; i++) {
+        current.next = new ListNode(arr[i]);
+        current = current.next;
+    }
+
+    return head;
+}
 
 module.exports = mergeTwoListsAlternative;

@@ -1,6 +1,18 @@
 const ListNode = require('./auxiliares/ListNode');
+const toArray = require('./toArray');
 
 function mergeTwoLists(list1, list2) {
+
+  /*   // Verifica se list1 é um array e converte para lista ligada se for
+    if (Array.isArray(list1)) {
+        list1 = createLinkedListFromArray(list1);
+    }
+
+    // Verifica se list2 é um array e converte para lista ligada se for
+    if (Array.isArray(list2)) {
+        list2 = createLinkedListFromArray(list2);
+    }
+     */
     // Função auxiliar para comparar valores e ordenar os nós
     const compare = (a, b) => a - b;
 
@@ -43,15 +55,21 @@ function mergeTwoLists(list1, list2) {
     return dummy.next;
 }
 
-// Função auxiliar para converter uma lista ligada em um array de valores
-function toArray(head) {
-    let array = [];
+
+
+/* // Função auxiliar para criar uma lista ligada a partir de um array
+function createLinkedListFromArray(arr) {
+    if (arr.length === 0) return null;
+
+    let head = new ListNode(arr[0]);
     let current = head;
-    while (current !== null) {
-        array.push(current.val);
+
+    for (let i = 1; i < arr.length; i++) {
+        current.next = new ListNode(arr[i]);
         current = current.next;
     }
-    return array;
-}
+
+    return head;
+} */
 
 module.exports = mergeTwoLists;
