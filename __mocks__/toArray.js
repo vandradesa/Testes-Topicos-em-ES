@@ -9,4 +9,4 @@ function toArray(head) {
 }
 
 // __mocks__/toArray.js
-module.exports = jest.fn();
+module.exports = toArray;

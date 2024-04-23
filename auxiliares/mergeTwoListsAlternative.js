@@ -1,5 +1,5 @@
-const ListNode = require('./ListNode');
-const validateList = require('../validateList');
+const ListNode = require('../src/ListNode');
+const validateList = require('../src/validateList');
 
 var mergeTwoListsAlternative = function(list1, list2) {
     let isValidList1 = validateList(list1);

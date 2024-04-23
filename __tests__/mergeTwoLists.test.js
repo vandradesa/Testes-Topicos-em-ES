@@ -1,8 +1,8 @@
-const mergeTwoLists = require('../mergeTwoLists');
+const mergeTwoLists = require('../src/mergeTwoLists');
 const mergeTwoListsAlternative = require('../auxiliares/mergeTwoListsAlternative');
 const generateTestData = require('../auxiliares/gerarDados');
-const ListNode = require('../auxiliares/ListNode');
-const toArray = require('../toArray');
+const ListNode = require('../__mocks__/ListNode');
+const toArray = require('../__mocks__/toArray');
 const fs = require('fs');
 
 
@@ -152,11 +152,16 @@ fs.writeFileSync('data.json', JSON.stringify(testData, null, 2));
 const jsonData = fs.readFileSync('data.json');
 const testDataFromFile = JSON.parse(jsonData);
 
-jest.mock('../auxiliares/ListNode', () => {
+//Mocks
+/* jest.mock('../__mocks__/ListNode', () => {
     return jest.fn().mockImplementation((val) => {
         return { val: val, next: null };
     });
-});
+}); */
+
+ListNode.ListNode = jest.fn();
+toArray.toArray = jest.fn();
+mergeTwoLists.ListNode = jest.fn()
 
 
 describe('mergeTwoLists', () => {
@@ -166,7 +171,12 @@ describe('mergeTwoLists', () => {
             let mergedList = mergeTwoLists(list1, list2);
             let mergedListAlternative = mergeTwoListsAlternative(list1, list2);
             expect(mergedList).toEqual(mergedListAlternative);   
-            expect(ListNode).toHaveBeenCalled();        
+            expect(mergeTwoLists.ListNode).not.toHaveBeenCalled();  
+            expect(ListNode).toHaveLength(2);      
+            expect(toArray).toHaveLength(1);    
+
+            
+
         }
     );
 
@@ -177,13 +187,13 @@ describe('mergeTwoLists', () => {
     });
 
     casosDeTeste2.forEach(function (casoTeste) {
-        test('Mesclando ' + (casoTeste.entrada1) + ' e ' + toArray(casoTeste.entrada2) + ' igual a ' + (casoTeste.saida), () => {
+        test('Mesclando ' + toArray(casoTeste.entrada1) + ' e ' + toArray(casoTeste.entrada2) + ' igual a ' + (casoTeste.saida), () => {
             expect(mergeTwoLists(casoTeste.entrada1, casoTeste.entrada2)).toEqual(casoTeste.saida);
        });
     });
 
     casosDeTeste3.forEach(function (casoTeste) {
-        test('Mesclando ' + (casoTeste.entrada1) + ' e ' + toArray(casoTeste.entrada2) + ' igual a ' + (casoTeste.saida), () => {
+        test('Mesclando ' + toArray(casoTeste.entrada1) + ' e ' + toArray(casoTeste.entrada2) + ' igual a ' + (casoTeste.saida), () => {
             expect(mergeTwoLists(casoTeste.entrada1, casoTeste.entrada2)).not.toEqual(casoTeste.saida);
        });
     });

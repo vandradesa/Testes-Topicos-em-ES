@@ -1,4 +1,4 @@
-const ListNode = require('./ListNode');
+const ListNode = require('../src/ListNode');
 
 function generateRandomLinkedList(length, minVal, maxVal) {
     if (length <= 0) return null;
