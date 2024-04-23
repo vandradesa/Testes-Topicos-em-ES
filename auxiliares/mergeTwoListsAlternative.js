@@ -1,6 +1,17 @@
 const ListNode = require('./ListNode');
+const validateList = require('../validateList');
 
 var mergeTwoListsAlternative = function(list1, list2) {
+    let isValidList1 = validateList(list1);
+    let isValidList2 = validateList(list2);
+
+    if (!isValidList1.valid || !isValidList2.valid) {
+        
+        return {valid:false,message: "Entradas inválidas. Insira listas com no máximo 50 elementos com números inteiros entre -100 e 100" };
+        
+        //message: "Entradas inválidas. Insira listas com no máximo 50 elementos com números inteiros entre -100 e 100" };
+
+    } else {
         // Verifica se list1 é um array e converte para lista ligada se for
         if (Array.isArray(list1)) {
             list1 = createLinkedListFromArray(list1);
@@ -51,6 +62,7 @@ var mergeTwoListsAlternative = function(list1, list2) {
     }
 
     return dummy.next;
+    }
 };
 
 // Função auxiliar para criar uma lista ligada a partir de um array
