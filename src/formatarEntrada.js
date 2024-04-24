@@ -5,6 +5,7 @@ function formatarEntrada(str){
     }
 
     else if (str.length >= 1 && str.length <= 200000){
+        str = str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
         return textoFormatado = str.toLowerCase().replace(/[\W_]/g, '');
     }
 
@@ -12,4 +13,5 @@ function formatarEntrada(str){
         return 'entrada invalida';
     }
 }
+
 module.exports = formatarEntrada;
