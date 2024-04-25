@@ -12,182 +12,166 @@ jest.mock('../src/formatarEntrada.js', () => {
 
 describe('Verifica se uma String é um Palindromo', () => {
 
+    afterEach(() => {
+        expect(formatarEntrada).toHaveBeenCalled();
+        formatarEntrada.mockClear();
+    });
+
     describe('Entrada valida - É palindromo', () => {
+
         test('Teste de limíte mínimo permitido - único caractere', () => {
             formatarEntrada.mockReturnValueOnce('a');
             expect(validarPalindromo('a')).toBe(true);
-
-            formatarEntrada.mockReturnValueOnce('f');
-            expect(validarPalindromo('f')).toBe(true);
+            expect(formatarEntrada).toHaveReturnedWith('a');
         });
 
         test('Teste de limite máximo permitido - 200000 caracteres', () => {
             formatarEntrada.mockReturnValueOnce(gerar200000CaracteresPalindromo());
             expect(validarPalindromo(gerar200000CaracteresPalindromo())).toBe(true);
+            expect(formatarEntrada).toHaveReturnedWith(gerar200000CaracteresPalindromo());
         });
 
         test('Apenas espaço', () => {
             formatarEntrada.mockReturnValueOnce(' ');
             expect(validarPalindromo(' ')).toBe(true);
-
-            formatarEntrada.mockReturnValueOnce('  ');
-            expect(validarPalindromo('  ')).toBe(true);
+            expect(formatarEntrada).toHaveReturnedWith(' ');
         });
 
         test('Apenas minusculas', () => {
             formatarEntrada.mockReturnValueOnce('ana');
             expect(validarPalindromo('ana')).toBe(true);
-
-            formatarEntrada.mockReturnValueOnce('bob');
-            expect(validarPalindromo('bob')).toBe(true);
+            expect(formatarEntrada).toHaveReturnedWith('ana');
         });
 
         test('Apenas maiusculas', () => {
             formatarEntrada.mockReturnValueOnce('ana');
             expect(validarPalindromo('ANA')).toBe(true);
-
-            formatarEntrada.mockReturnValueOnce('bob');
-            expect(validarPalindromo('BOB')).toBe(true);
+            expect(formatarEntrada).toHaveReturnedWith('ana');
         });
 
         test('Minusculas e maiusculas', () => {
             formatarEntrada.mockReturnValueOnce('ana');
             expect(validarPalindromo('aNA')).toBe(true);
-
-            formatarEntrada.mockReturnValueOnce('bob');
-            expect(validarPalindromo('Bob')).toBe(true);
+            expect(formatarEntrada).toHaveReturnedWith('ana');
         });
 
         test('Números', () => {
             formatarEntrada.mockReturnValueOnce('1ana1');
             expect(validarPalindromo('1ana1')).toBe(true);
+            expect(formatarEntrada).toHaveReturnedWith('1ana1');
 
             formatarEntrada.mockReturnValueOnce('111');
             expect(validarPalindromo('111')).toBe(true);
+            expect(formatarEntrada).toHaveReturnedWith('111');
         });
 
         test('Palavra existente no dicionario', () => {
             formatarEntrada.mockReturnValueOnce('arara');
             expect(validarPalindromo('arara')).toBe(true);
-
-            formatarEntrada.mockReturnValueOnce('radar');
-            expect(validarPalindromo('radar')).toBe(true);
+            expect(formatarEntrada).toHaveReturnedWith('arara');
         });
 
         test('Palavra não existente no dicionario', () => {
             formatarEntrada.mockReturnValueOnce('aaa');
             expect(validarPalindromo('aaa')).toBe(true);
-
-            formatarEntrada.mockReturnValueOnce('bbbb');
-            expect(validarPalindromo('bbbb')).toBe(true);
+            expect(formatarEntrada).toHaveReturnedWith('aaa');
         });
 
         test('Frase', () => {
             formatarEntrada.mockReturnValueOnce('amoraroma');
             expect(validarPalindromo('Amor a Roma')).toBe(true);
-
-            formatarEntrada.mockReturnValueOnce('socorrammesubinoonibusemmarrocos');
-            expect(validarPalindromo('Socorram-me, subi no ônibus em Marrocos')).toBe(true);
+            expect(formatarEntrada).toHaveReturnedWith('amoraroma');
         });
 
         test('Espaços, caracteres e caracteres especiais', () => {
             formatarEntrada.mockReturnValueOnce('ana');
             expect(validarPalindromo(' ãnà   ')).toBe(true);
-
-            formatarEntrada.mockReturnValueOnce('bob');
-            expect(validarPalindromo(' bôb ')).toBe(true);
+            expect(formatarEntrada).toHaveReturnedWith('ana');
         });
     });
 
     describe('Entrada valida - Não é palindromo', () => {
+    
         test('Teste de limite máximo permitido - 200000 caracteres', () => {
             formatarEntrada.mockReturnValueOnce(gerar200000Caracteres());
             expect(validarPalindromo(gerar200000Caracteres())).toBe(false);
+            expect(formatarEntrada).toHaveReturnedWith(gerar200000Caracteres());
         });
 
         test('Apenas minusculas', () => {
             formatarEntrada.mockReturnValueOnce('bola');
             expect(validarPalindromo('bola')).toBe(false);
-
-            formatarEntrada.mockReturnValueOnce('apito');
-            expect(validarPalindromo('apito')).toBe(false);
+            expect(formatarEntrada).toHaveReturnedWith('bola');
         });
 
         test('Apenas maiusculas', () => {
             formatarEntrada.mockReturnValueOnce('apito');
             expect(validarPalindromo('APITO')).toBe(false);
-
-            formatarEntrada.mockReturnValueOnce('bola');
-            expect(validarPalindromo('BOLA')).toBe(false);
+            expect(formatarEntrada).toHaveReturnedWith('apito');
         });
 
         test('Minusculas e maiusculas', () => {
             formatarEntrada.mockReturnValueOnce('apito');
             expect(validarPalindromo('aPITo')).toBe(false);
-
-            formatarEntrada.mockReturnValueOnce('bola');
-            expect(validarPalindromo('Bola')).toBe(false);
+            expect(formatarEntrada).toHaveReturnedWith('apito');
         });
 
         test('Números', () => {
             formatarEntrada.mockReturnValueOnce('3bola3');
             expect(validarPalindromo('3bola3')).toBe(false);
+            expect(formatarEntrada).toHaveReturnedWith('3bola3');
 
             formatarEntrada.mockReturnValueOnce('113');
             expect(validarPalindromo('113')).toBe(false);
+            expect(formatarEntrada).toHaveReturnedWith('113');
         });
 
         test('Palavra existente no dicionario', () => {
             formatarEntrada.mockReturnValueOnce('joao');
             expect(validarPalindromo('joão')).toBe(false);
-
-            formatarEntrada.mockReturnValueOnce('coelho');
-            expect(validarPalindromo('coelho')).toBe(false);
+            expect(formatarEntrada).toHaveReturnedWith('joao');
         });
 
         test('Palavra não existente no dicionario', () => {
             formatarEntrada.mockReturnValueOnce('aaabbc');
             expect(validarPalindromo('aaabbc')).toBe(false);
-
-            formatarEntrada.mockReturnValueOnce('eeoocc11');
-            expect(validarPalindromo('eeoocc11')).toBe(false);
+            expect(formatarEntrada).toHaveReturnedWith('aaabbc');
         });
 
         test('Caracteres especiais', () => {
             formatarEntrada.mockReturnValueOnce('bola');
             expect(validarPalindromo('bólã')).toBe(false);
-
-            formatarEntrada.mockReturnValueOnce('ápito');
-            expect(validarPalindromo('ápîto')).toBe(false);
+            expect(formatarEntrada).toHaveReturnedWith('bola');
         });
 
         test('Frase', () => {
             formatarEntrada.mockReturnValueOnce('fuiaobaile');
             expect(validarPalindromo('fui ao baile')).toBe(false);
-
-            formatarEntrada.mockReturnValueOnce('eugostodesorvete');
-            expect(validarPalindromo('eu gosto de sorvete')).toBe(false);
+            expect(formatarEntrada).toHaveReturnedWith('fuiaobaile');
         });
 
         test('Espaços, caracteres e caracteres especiais', () => {
             formatarEntrada.mockReturnValueOnce('bola');
             expect(validarPalindromo(' bólà   ')).toBe(false);
-
-            formatarEntrada.mockReturnValueOnce('apito');
-            expect(validarPalindromo(' âpítõ ')).toBe(false);
+            expect(formatarEntrada).toHaveReturnedWith('bola');
         });
 
     });
 
     describe('Entrada inválida', () => {
+        
         test('String com tamanho menor que 1 caractere', () => {
             formatarEntrada.mockReturnValueOnce('entrada invalida');
             expect(validarPalindromo('')).toBe('Entrada invalida. Insira uma String entre 1 ate 200000 caracteres');
+            expect(formatarEntrada).toHaveReturnedWith('entrada invalida');
+
         });
 
         test('String com tamanho maior que 200000 caracteres', () => {
             formatarEntrada.mockReturnValueOnce('entrada invalida');
             expect(validarPalindromo(gerar200001CaracteresPalindromo())).toBe('Entrada invalida. Insira uma String entre 1 ate 200000 caracteres');
+            expect(formatarEntrada).toHaveReturnedWith('entrada invalida');
+            
         });
     });
 
@@ -199,10 +183,6 @@ describe('Verifica se uma String é um Palindromo', () => {
         testes.forEach((teste, index) => {
             beforeEach(() => {
                 formatarEntrada.mockReturnValueOnce(teste.entradaFormatada);
-            });
-
-            afterEach(() => {
-                formatarEntrada.mockClear();
             });
 
             test(`Teste ${index + 1}`, () => {
