@@ -186,7 +186,7 @@ describe('Converte Valor Inteiro para Romano', () => {
   });
 
   const fs = require('fs');
-  const testesJSON = fs.readFileSync('json/casosTeste.json', 'utf8');
+  const testesJSON = fs.readFileSync('__test__/json/casosTeste.json', 'utf8');
   const testes = JSON.parse(testesJSON);
 
   describe('Testes aleatórios lidos do arquivo json', () => {

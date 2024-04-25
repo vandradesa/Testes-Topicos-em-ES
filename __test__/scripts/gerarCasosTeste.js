@@ -1,6 +1,6 @@
 const fs = require('fs');
-const validarEntrada = require('../src/validarEntrada.js');
-const intToRomanAlternative = require('../__test__/intToRomanAlternative.js');
+const validarEntrada = require('../../src/validarEntrada.js');
+const intToRomanAlternative = require('../functions/intToRomanAlternative.js');
 
 function gerarInt(min, max) {
     return Math.floor(Math.random() * (max - min + 1)) + min;
@@ -76,7 +76,7 @@ function writeTestCasesToFile() {
     }
 
     const jsonContent = JSON.stringify(casosTeste, null, 2);
-    fs.writeFileSync('json/casosTeste.json', jsonContent);
+    fs.writeFileSync('__test__/json/casosTeste.json', jsonContent);
 }
 
 writeTestCasesToFile();

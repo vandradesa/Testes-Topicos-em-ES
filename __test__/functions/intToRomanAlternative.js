@@ -1,4 +1,4 @@
-const validarEntrada = require('../src/validarEntrada');
+const validarEntrada = require('../../src/validarEntrada');
 
 function intToRomanAlternative(num) {
     
