@@ -41,12 +41,15 @@ describe('Verifica se uma String é um Palindromo', () => {
             formatarEntrada.mockReturnValueOnce('ana');
             expect(validarPalindromo('ana')).toBe(true);
             expect(formatarEntrada).toHaveReturnedWith('ana');
+            expect(formatarEntrada('ana')).toEqual(expect.stringMatching('ana'));
+            expect(formatarEntrada('ana')).toEqual(expect.stringContaining('an'));
         });
 
         test('Apenas maiusculas', () => {
             formatarEntrada.mockReturnValueOnce('ana');
             expect(validarPalindromo('ANA')).toBe(true);
             expect(formatarEntrada).toHaveReturnedWith('ana');
+            expect(formatarEntrada('ANA')).toEqual(expect.stringMatching('ana'));
         });
 
         test('Minusculas e maiusculas', () => {
@@ -69,6 +72,8 @@ describe('Verifica se uma String é um Palindromo', () => {
             formatarEntrada.mockReturnValueOnce('arara');
             expect(validarPalindromo('arara')).toBe(true);
             expect(formatarEntrada).toHaveReturnedWith('arara');
+            expect(formatarEntrada('arara')).toEqual(expect.stringContaining('ar'));
+            expect(formatarEntrada('arara')).toEqual(expect.not.stringContaining('bc'));
         });
 
         test('Palavra não existente no dicionario', () => {
@@ -80,6 +85,9 @@ describe('Verifica se uma String é um Palindromo', () => {
         test('Frase', () => {
             formatarEntrada.mockReturnValueOnce('amoraroma');
             expect(validarPalindromo('Amor a Roma')).toBe(true);
+            expect(formatarEntrada('Amor a Roma')).toEqual(expect.stringMatching('amoraroma'));
+            expect(formatarEntrada('Amor a Roma')).toEqual(expect.stringContaining('amor'));
+           
             expect(formatarEntrada).toHaveReturnedWith('amoraroma');
         });
 
