@@ -14,7 +14,7 @@ function validateList(list) {
         // Verifica se o valor é um número inteiro entre -100 e 100
         let val = current.val;
         if (!Number.isInteger(val) || val < -100 || val > 100) {
-            return false 
+            return false; 
             //{ valid: false, message: `O valor '${val}' não é um número inteiro entre -100 e 100.` };
         }
 
@@ -23,12 +23,12 @@ function validateList(list) {
 
         // Verifica se a lista tem mais de 50 elementos
         if (count > 50) {
-            return false
+            return false;
             //{ valid: false, message: 'A lista não pode ter mais de 50 elementos.' };
         }
     }
 
-    return true
+    return true; 
     //{ valid: true, message: 'A lista foi validada com sucesso.' };
 }
 

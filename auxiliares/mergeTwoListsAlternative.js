@@ -5,7 +5,7 @@ var mergeTwoListsAlternative = function(list1, list2) {
     let isValidList1 = validateList(list1);
     let isValidList2 = validateList(list2);
 
-    if (!isValidList1.valid || !isValidList2.valid) {
+    if (!isValidList1 || !isValidList2) {
         
         return {valid:false,message: "Entradas inválidas. Insira listas com no máximo 50 elementos com números inteiros entre -100 e 100" };
         
