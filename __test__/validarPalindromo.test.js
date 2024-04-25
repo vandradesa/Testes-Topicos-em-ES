@@ -1,21 +1,14 @@
 const validarPalindromo = require('../src/validarPalindromo.js');
 const formatarEntrada = require('../src/formatarEntrada.js');
-const gerar200000CaracteresPalindromo = require('./gerarCaracteres.js').gerar200000CaracteresPalindromo;
-const gerar200001CaracteresPalindromo = require('./gerarCaracteres.js').gerar200001CaracteresPalindromo;
-const gerar200000Caracteres = require('./gerarCaracteres.js').gerar200000Caracteres;
-
-//jest.mock('../src/formatarEntrada.js', () => {return jest.fn((str) => {return str})});
+const gerar200000CaracteresPalindromo = require('./scripts/gerarCaracteres').gerar200000CaracteresPalindromo;
+const gerar200001CaracteresPalindromo = require('./scripts/gerarCaracteres.js').gerar200001CaracteresPalindromo;
+const gerar200000Caracteres = require('./scripts/gerarCaracteres.js').gerar200000Caracteres;
 
 jest.mock('../src/formatarEntrada.js', () => {
     return jest.fn((str) => {
-        if (str.length > 200000 || str.length < 1) {
-            throw new Error('Entrada invalida. Insira uma String entre 1 ate 200000 caracteres');
-        } else {
-            return str;
-        }
+        return str;
     });
 });
-
 
 describe('Verifica se uma String é um Palindromo', () => {
 
@@ -195,6 +188,27 @@ describe('Verifica se uma String é um Palindromo', () => {
         test('String com tamanho maior que 200000 caracteres', () => {
             formatarEntrada.mockReturnValueOnce('entrada invalida');
             expect(validarPalindromo(gerar200001CaracteresPalindromo())).toBe('Entrada invalida. Insira uma String entre 1 ate 200000 caracteres');
+        });
+    });
+
+    const fs = require('fs');
+    const testes = JSON.parse(fs.readFileSync('__test__/json/casosTeste.json', 'utf8'));
+
+    describe('Testes aleatórios lidos do arquivo json', () => {
+    
+        testes.forEach((teste, index) => {
+            beforeEach(() => {
+                formatarEntrada.mockReturnValueOnce(teste.entradaFormatada);
+            });
+
+            afterEach(() => {
+                formatarEntrada.mockClear();
+            });
+
+            test(`Teste ${index + 1}`, () => {
+                expect(validarPalindromo(teste.entrada)).toBe(teste.saidaEsperada);
+                expect(formatarEntrada).toHaveBeenCalledWith(teste.entrada);
+            });
         });
     });
 });
