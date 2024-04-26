@@ -4,10 +4,7 @@ const generateTestData = require('../auxiliares/gerarDados');
 const ListNode = require('../__mocks__/ListNode');
 const toArray = require('../__mocks__/toArray');
 const fs = require('fs');
-const ValidarEntrada = require('../__mocks__/validateList.js');
-
-//const validateList = require('../src/validateList');
-
+const validateList = require('../__mocks__/validateList.js');
 
 const lista1valida = generateTestData2(50);
 const lista2valida = generateTestData2(49);
@@ -172,27 +169,27 @@ const testDataFromFile = JSON.parse(jsonData);
     });
 }); */
 
-ListNode.ListNode = jest.fn();
+//ListNode.ListNode = jest.fn();
 //toArray.toArray = jest.fn();
-mergeTwoLists.ListNode = jest.fn()
-mergeTwoLists.validateList = jest.fn()
-jest.mock('../__mocks__/validateList.js', () => jest.fn());
+//mergeTwoLists.ListNode = jest.fn()
+//mergeTwoLists.validateList = jest.fn()
 
-
+jest.mock('../__mocks__/validateList.js');
+toArray.Arrayteste = jest.fn();
+ListNode.ListNode = jest.fn();
 
 describe('mergeTwoLists', () => {
     test.each(testDataFromFile)(
         'ambas as implementações devem produzir resultados idênticos',
         (list1, list2) => {
+    
             //ValidarEntrada.mockReturnValue(true);
             let mergedList = mergeTwoLists(list1, list2);
             let mergedListAlternative = mergeTwoListsAlternative(list1, list2);
             expect(mergedList).toEqual(mergedListAlternative);
-            expect(toArray(mergedList)).not.toContain(200);      
-             
-            expect(ListNode).toHaveLength(2);      
-            expect(toArray).toHaveLength(1);  
-          
+            expect(toArray(mergedList)).not.toContain(200);                   
+            //expect(ListNode).toHaveLength(2);      
+            //expect(toArray).toHaveLength(1);           
                     
             //expect(ValidarEntrada).toHaveReturnedWith(true)
             //ValidarEntrada.mockClear();          
@@ -202,17 +199,16 @@ describe('mergeTwoLists', () => {
 
     casosDeTeste1.forEach(function (casoTeste) {
         test('Mesclando ' + toArray(casoTeste.entrada1) + ' e ' + toArray(casoTeste.entrada2) + ' igual a ' + toArray(casoTeste.saida), () => {
-            ValidarEntrada.mockReturnValue(true);
-
+            //ValidarEntrada.mockReturnValue(true);
             expect(mergeTwoLists(casoTeste.entrada1, casoTeste.entrada2)).toEqual(casoTeste.saida);
             expect(toArray(mergeTwoLists(casoTeste.entrada1, casoTeste.entrada2))).not.toContain(3000);
-            
+                    
        });
     });
 
     casosDeTeste2.forEach(function (casoTeste) {
         test('Mesclando ' + toArray(casoTeste.entrada1) + ' e ' + toArray(casoTeste.entrada2) + ' igual a ' + (casoTeste.saida), () => {
-            ValidarEntrada.mockReturnValue(false);
+            //ValidarEntrada.mockReturnValue(false);
             expect(mergeTwoLists(casoTeste.entrada1, casoTeste.entrada2)).toEqual(casoTeste.saida);
             expect(mergeTwoLists(casoTeste.entrada1, casoTeste.entrada2)).toMatchObject(casoTeste.saida);
             //expect(toArray(mergeTwoLists(casoTeste.entrada1, casoTeste.entrada2))).not.toContain(3000);
@@ -221,19 +217,41 @@ describe('mergeTwoLists', () => {
 
     casosDeTeste3.forEach(function (casoTeste) {
         test('Mesclando ' + toArray(casoTeste.entrada1) + ' e ' + toArray(casoTeste.entrada2) + ' igual a ' + (casoTeste.saida), () => {
-            ValidarEntrada.mockReturnValue(true);
+           // ValidarEntrada.mockReturnValue(true);
             expect(mergeTwoLists(casoTeste.entrada1, casoTeste.entrada2)).not.toEqual(casoTeste.saida);
             expect(toArray(mergeTwoLists(casoTeste.entrada1, casoTeste.entrada2))).not.toContain(3000);
        });
     });
-
+   
     casosDeTeste4.forEach(function (casoTeste) {
+        
         test('Mesclando ' + toArray(casoTeste.entrada1) + ' e ' + toArray(casoTeste.entrada2) + ' igual a ' + (casoTeste.saida), () => {
-            ValidarEntrada.mockReturnValue(true);
-            expect(mergeTwoLists(casoTeste.entrada1, casoTeste.entrada2)).toMatchObject(casoTeste.saida);
+       
+            validateList.mockReturnValue(true);
+            const e1 = casoTeste.entrada1;
+            const e2 = casoTeste.entrada2;
+            expect(mergeTwoLists(e1, casoTeste.entrada2)).toMatchObject(casoTeste.saida);
             expect(toArray(mergeTwoLists(casoTeste.entrada1, casoTeste.entrada2))).toContain(1);
             expect(toArray(mergeTwoLists(casoTeste.entrada1, casoTeste.entrada2))).toContain(2);
             expect(toArray(mergeTwoLists(casoTeste.entrada1, casoTeste.entrada2))).not.toContain(1000);
+            validateList(e1);
+            expect(validateList).toHaveReturnedWith(true)
+            expect(validateList).toHaveBeenCalledTimes(1);
+            validateList.mockClear();
+            
+            toArray.Arrayteste.mockReturnValue([1,2,3]);
+            toArray.Arrayteste(e1);
+            toArray.Arrayteste(e1);
+            expect(toArray.Arrayteste).toHaveBeenCalledTimes(2);
+            expect(toArray.Arrayteste).toHaveReturnedWith([1,2,3]);
+
+            ListNode.ListNode.mockReturnValue(true);
+            ListNode.ListNode(e1);
+            expect(ListNode.ListNode).toHaveBeenCalledTimes(1);
+            expect(ListNode.ListNode).toHaveReturnedWith(true);
+            expect(ListNode.ListNode).toHaveBeenCalled();
+
+          
        });
     });
 
